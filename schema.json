@@ -1,0 +1,25 @@
+{
+  "title": "Nigeria MDG Information System (NMIS)",
+  "id": "nmis_ui_data_2ef92c15",
+  "default_sectors": "sectors.json",
+  "default_variables": "variables.json",
+  "districts": [
+    {
+      "label": "Isi Uzo",
+      "group": "Enugu",
+      "id": "enugu_isi_uzo",
+      "url_code": "enugu/isi_uzo",
+      "data_root": "http://modilabs.github.com/nmis_ui_data_2ef92c15/districts/enugu_isi_uzo",
+      "data_modules": [
+        "facilities",
+        "summary",
+        "gap",
+        "anything else?"
+      ]
+    }
+  ],
+  "groupings": {
+    "group": "State",
+    "local": "LGA"
+  }
+}
