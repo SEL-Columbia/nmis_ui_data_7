@@ -9,13 +9,20 @@
       "group": "Enugu",
       "id": "enugu_isi_uzo",
       "url_code": "enugu/isi_uzo",
-      "data_root": "http://modilabs.github.com/nmis_ui_data_2ef92c15/districts/enugu_isi_uzo",
+      "local_id": "isi_uzo",
+      "data_root": "districts/enugu_isi_uzo",
       "data_modules": [
         "facilities",
         "summary",
-        "gap",
-        "anything else?"
-      ]
+        "gap"
+      ],
+      "map_layers": []
+    }
+  ],
+  "groups": [
+    {
+      "label": "Enugu",
+      "id": "enugu"
     }
   ],
   "groupings": {
