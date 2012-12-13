@@ -1,0 +1,48 @@
+# Changes the header of the page to reflect the data source.
+title: Nigeria MDG Information System (NMIS)
+id: nmis_ui_data_2ef92c15
+
+# Ideally, we don't want to tie ourselves to States + LGAs,
+# This is not currently used, but in the future, will allow the
+# UI to continue to display "State"/"LGA"
+groupings: {group: State, local: LGA}
+
+# An object with a list of districts.
+districts:
+- 
+  # should [id, local_id] be [global_id, id]?
+  id: enugu_isi_uzo
+  local_id: isi_uzo
+  lat_lng: 7.687256,6.745281
+  url_code: enugu/isi_uzo
+
+  # label is the name. (Should we just call it the label?)
+  label: Isi Uzo
+
+  # group is the ID of the state
+  group: enugu
+
+  # the data_root is the directory location (relative to the schema directory)
+  data_root: districts/enugu_isi_uzo
+
+  # the data_modules are files located in the "data_root" directory.
+  # the presence of a module also changes how the district's view page is organized
+  #  ...eg. a district with "gap.json" will display a tab for gap analysis.
+  # nmis_ui will be able to handle JSON and CSV files.
+  data_modules:
+  - facilities.json
+  - profile_data.json
+  - summary.json
+  - summary_sectors.json
+
+  # map_layers is not yet used.
+  map_layers: []
+
+# A list of all the
+groups:
+- {id: enugu, label: Enugu}
+
+# when a district cannot load a data module, it falls back on these defaults
+defaults:
+  sectors: sectors.json
+  variables: variables.json
