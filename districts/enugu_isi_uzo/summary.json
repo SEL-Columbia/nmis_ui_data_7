@@ -1,0 +1,583 @@
+{
+  "view_details": [
+    {
+      "id": "overview",
+      "modules": [
+        "overview_and_map",
+        "overview_facility_overview",
+        "overview_mdg_status"
+      ]
+    },
+    {
+      "id": "health",
+      "name": "Health",
+      "modules": [
+        "sector_overview",
+        "sector_gap"
+      ]
+    },
+    {
+      "id": "education",
+      "name": "Education",
+      "modules": [
+        "sector_overview",
+        "sector_gap"
+      ]
+    },
+    {
+      "id": "water",
+      "name": "Water",
+      "modules": [
+        "sector_overview",
+        "sector_gap"
+      ]
+    }
+  ],
+  "data": {
+    "overview": {
+      "overview_and_map": [
+        [
+          "LGA Chairman",
+          "Doctor Sam C Ugwu"
+        ],
+        [
+          "LGA Secretary",
+          "Sylvester O Ugwuagbo"
+        ],
+        [
+          "Population (2006)",
+          "148597"
+        ],
+        [
+          "Area (square km)",
+          "327.1"
+        ],
+        [
+          "Distance from capital (km)",
+          "45"
+        ]
+      ],
+      "overview_facility_overview": {
+        "columns": [
+          {
+            "name": "Health Facilities",
+            "rows": [
+              [
+                "Health posts and dispensaries",
+                "6"
+              ],
+              [
+                "Primary health clinics",
+                "0"
+              ],
+              [
+                "Primary health centres",
+                "3"
+              ],
+              [
+                "Comprehensive health centres &amp; hospitals",
+                "0"
+              ],
+              [
+                "Other health facillities",
+                "0"
+              ],
+              [
+                "Facilities that perform Caesarean sections",
+                "0"
+              ],
+              [
+                "Skilled health providers per 1,000 population",
+                "0.034"
+              ],
+              [
+                "CHEWs per 1,000 population",
+                "0.061"
+              ]
+            ]
+          },
+          {
+            "name": "Schools",
+            "rows": [
+              [
+                "Preprimary",
+                "0"
+              ],
+              [
+                "Preprimary and primary",
+                "14"
+              ],
+              [
+                "Primary",
+                "7"
+              ],
+              [
+                "Primary and junior secondary",
+                "0"
+              ],
+              [
+                "Junior secondary",
+                "0"
+              ],
+              [
+                "Junior and senior secondary",
+                "4"
+              ],
+              [
+                "Senior secondary",
+                "0"
+              ],
+              [
+                "Primary, junior and senior secondary",
+                "1"
+              ],
+              [
+                "Other schools",
+                "1"
+              ],
+              [
+                "Pupil to teacher ratio",
+                "17.1"
+              ],
+              [
+                "Percentage of teachers with NCE qualification",
+                "57%"
+              ],
+              [
+                "Classrooms in need of major repairs",
+                "172"
+              ]
+            ]
+          },
+          {
+            "name": "Water Points",
+            "rows": [
+              [
+                "Developed/treated spring and surface water",
+                "0"
+              ],
+              [
+                "Protected dug wells",
+                "1"
+              ],
+              [
+                "Boreholes and tube wells",
+                "4"
+              ],
+              [
+                "Boreholes and tube wells with non-motorized lift/pump mechanisms",
+                "4"
+              ],
+              [
+                "Boreholes and tube wells with motorized lift/pump mechanisms",
+                "0"
+              ],
+              [
+                "Well-maintained boreholes, protected and treated water sources",
+                "1"
+              ],
+              [
+                "Population served per well-maintained borehole, protected or treated water source",
+                "148597"
+              ]
+            ]
+          }
+        ]
+      },
+      "overview_mdg_status": [
+        {
+          "header": "Goal 1: Eradicate extreme poverty and hunger",
+          "rows": [
+            {
+              "value": "7%",
+              "source": "DHS, 2008 (State)",
+              "name": "Percentage of children under five who are underweight (weight-for-age)"
+            },
+            {
+              "value": "20%",
+              "source": "DHS, 2008 (State)",
+              "name": "Percentage of children under five with stunting (height-for-age)"
+            },
+            {
+              "value": "17%",
+              "source": "DHS, 2008 (State)",
+              "name": "Percentage of children under five with wasting (weight-for-height)"
+            }
+          ]
+        },
+        {
+          "header": "Goal 2: Achieve universal primary education",
+          "rows": [
+            {
+              "value": "64%",
+              "source": "HNLSS, 2008-2009 (LGA)",
+              "name": "Net enrollment rate for primary education"
+            },
+            {
+              "value": "99.1%",
+              "source": "School Census, 2005 (LGA) / Population Census, 2006 (LGA)",
+              "name": "Gross enrollment rate in primary education"
+            },
+            {
+              "value": "39%",
+              "source": "HNLSS, 2008-2009 (LGA)",
+              "name": "Net enrollment rate for secondary education"
+            },
+            {
+              "value": "118%",
+              "source": "HNLSS, 2008-2009 (LGA)",
+              "name": "Gross enrollment rate in secondary education"
+            },
+            {
+              "value": "49%",
+              "source": "HNLSS, 2008-2009 (LGA)",
+              "name": "Literacy rate of 15-24 year olds (men and women)"
+            }
+          ]
+        },
+        {
+          "header": "Goal 3: Promote gender equality and empower women",
+          "rows": [
+            {
+              "value": "0.9",
+              "source": "School Census, 2005 (LGA)",
+              "name": "Ratio of girls to boys in primary schools"
+            },
+            {
+              "value": "0.9",
+              "source": "School Census, 2005 (LGA)",
+              "name": "Ratio of girls to boys in junior secondary schools"
+            },
+            {
+              "value": "1.3",
+              "source": "School Census, 2007 (State)",
+              "name": "Ratio of girls to boys in senior secondary schools"
+            },
+            {
+              "value": "0.9",
+              "source": "School Census, 2005 (LGA)",
+              "name": "Gender parity index (GPI) for primary schools"
+            },
+            {
+              "value": "1",
+              "source": "School Census, 2005 (LGA)",
+              "name": "Gender parity index (GPI) for junior secondary schools"
+            }
+          ]
+        },
+        {
+          "header": "Goal 4: Reduce child mortality",
+          "rows": [
+            {
+              "value": "117.1",
+              "source": "DHS, 2008 (State)",
+              "name": "Under five mortality rate (per 1,000 live births)"
+            },
+            {
+              "value": "82.4",
+              "source": "DHS, 2008 (State)",
+              "name": "Infant mortality rate (per 1,000 live births)"
+            },
+            {
+              "value": "54%",
+              "source": "DHS, 2008 (State)",
+              "name": "Measles immunization rate"
+            },
+            {
+              "value": "50%",
+              "source": "DHS, 2008 (State)",
+              "name": "DPT 3 immunization rate"
+            },
+            {
+              "value": "30%",
+              "source": "DHS, 2008 (State)",
+              "name": "Percentage of children under five years of age with diarrhea who received oral rehydration therapy"
+            }
+          ]
+        },
+        {
+          "header": "Goal 5: Improve maternal health",
+          "rows": [
+            {
+              "value": "N/A",
+              "source": "",
+              "name": "Maternal mortality"
+            },
+            {
+              "value": "86%",
+              "source": "HNLSS, 2008-2009 (LGA)",
+              "name": "Percentage of births attended by a skilled birth attendant"
+            },
+            {
+              "value": "69.8%",
+              "source": "DHS, 2008 (State)",
+              "name": "Percentage of women who attended at least four antenatal visits"
+            },
+            {
+              "value": "4%",
+              "source": "DHS, 2008 (State)",
+              "name": "Percentage of pregnant women tested for HIV"
+            }
+          ]
+        },
+        {
+          "header": "Goal 6: Combat HIV/AIDS, malaria and other diseases",
+          "rows": [
+            {
+              "value": "6.5%",
+              "source": "HSS, 2005 (LGA)",
+              "name": "HIV Prevalence"
+            },
+            {
+              "value": "9%",
+              "source": "HNLSS, 2008-2009 (LGA)",
+              "name": "Percentage of men and women ever tested for HIV"
+            },
+            {
+              "value": "8%",
+              "source": "DHS, 2008 (State)",
+              "name": "Percentage of children under five sleeping under insecticide-treated bednets"
+            },
+            {
+              "value": "N/A",
+              "source": "",
+              "name": "Tuberculosis treatment success rate"
+            }
+          ]
+        },
+        {
+          "header": "Goal 7: Ensure environmental sustainability",
+          "rows": [
+            {
+              "value": "9%",
+              "source": "HNLSS, 2008-2009 (LGA)",
+              "name": "Percentage of households with access to an improved water source"
+            },
+            {
+              "value": "29%",
+              "source": "HNLSS, 2008-2009 (LGA)",
+              "name": "Percentage of households with access to improved sanitation"
+            }
+          ]
+        }
+      ]
+    },
+    "health": {
+      "sector_overview": [],
+      "sector_gap": []
+    }
+  },
+  "overview": [
+    [
+      "LGA Chairman",
+      "Doctor Sam C Ugwu"
+    ],
+    [
+      "LGA Secretary",
+      "Sylvester O Ugwuagbo"
+    ],
+    [
+      "Population (2006)",
+      "148597"
+    ],
+    [
+      "Area (square km)",
+      "327.1"
+    ],
+    [
+      "Distance from capital (km)",
+      "45"
+    ]
+  ],
+  "mdg_status": [
+    [
+      "Goal 1: Eradicate extreme poverty and hunger"
+    ],
+    [
+      "",
+      "",
+      "Percentage of children under five who are underweight (weight-for-age) Source: DHS, 2008 (State)",
+      "7%"
+    ],
+    [
+      "",
+      "",
+      "Percentage of children under five with stunting (height-for-age) Source: DHS, 2008 (State)",
+      "20%"
+    ],
+    [
+      "",
+      "",
+      "Percentage of children under five with wasting (weight-for-height) Source: DHS, 2008 (State)",
+      "17%"
+    ],
+    [
+      "Goal 2: Achieve universal primary education"
+    ],
+    [
+      "",
+      "",
+      "Net enrollment rate for primary education Source: HNLSS, 2008-2009 (LGA)",
+      "64%"
+    ],
+    [
+      "",
+      "",
+      "Gross enrollment rate in primary education Source: School Census, 2005 (LGA) / Population Census, 2006 (LGA)",
+      "99.1%"
+    ],
+    [
+      "",
+      "",
+      "Net enrollment rate for secondary education Source: HNLSS, 2008-2009 (LGA)",
+      "39%"
+    ],
+    [
+      "",
+      "",
+      "Gross enrollment rate in secondary education Source: HNLSS, 2008-2009 (LGA)",
+      "118%"
+    ],
+    [
+      "",
+      "",
+      "Literacy rate of 15-24 year olds (men and women) Source: HNLSS, 2008-2009 (LGA)",
+      "49%"
+    ],
+    [
+      "Goal 3: Promote gender equality and empower women"
+    ],
+    [
+      "",
+      "",
+      "Ratio of girls to boys in primary schools Source: School Census, 2005 (LGA)",
+      "0.9"
+    ],
+    [
+      "",
+      "",
+      "Ratio of girls to boys in junior secondary schools Source: School Census, 2005 (LGA)",
+      "0.9"
+    ],
+    [
+      "",
+      "",
+      "Ratio of girls to boys in senior secondary schools  Source: School Census, 2007 (State)",
+      "1.3"
+    ],
+    [
+      "",
+      "",
+      "Gender parity index (GPI) for primary schools Source: School Census, 2005 (LGA)",
+      "0.9"
+    ],
+    [
+      "",
+      "",
+      "Gender parity index (GPI) for junior secondary schools Source: School Census, 2005 (LGA)",
+      "1"
+    ],
+    [
+      "Goal 4: Reduce child mortality"
+    ],
+    [
+      "",
+      "",
+      "Under five mortality rate (per 1,000 live births) Source: DHS, 2008 (State)",
+      "117.1"
+    ],
+    [
+      "",
+      "",
+      "Infant mortality rate (per 1,000 live births) Source: DHS, 2008 (State)",
+      "82.4"
+    ],
+    [
+      "",
+      "",
+      "Measles immunization rate Source: DHS, 2008 (State)",
+      "54%"
+    ],
+    [
+      "",
+      "",
+      "DPT 3 immunization rate Source: DHS, 2008 (State)",
+      "50%"
+    ],
+    [
+      "",
+      "",
+      "Percentage of children under five years of age with diarrhea who received oral rehydration therapy Source: DHS, 2008 (State)",
+      "30%"
+    ],
+    [
+      "Goal 5: Improve maternal health"
+    ],
+    [
+      "",
+      "",
+      "Maternal mortality",
+      "N/A"
+    ],
+    [
+      "",
+      "",
+      "Percentage of births attended by a skilled birth attendant Source: HNLSS, 2008-2009 (LGA)",
+      "86%"
+    ],
+    [
+      "",
+      "",
+      "Percentage of women who attended at least four antenatal visits Source: DHS, 2008 (State)",
+      "69.8%"
+    ],
+    [
+      "",
+      "",
+      "Percentage of pregnant women tested for HIV Source: DHS, 2008 (State)",
+      "4%"
+    ],
+    [
+      "Goal 6: Combat HIV/AIDS, malaria and other diseases"
+    ],
+    [
+      "",
+      "",
+      "HIV Prevalence Source: HSS, 2005 (LGA)",
+      "6.5%"
+    ],
+    [
+      "",
+      "",
+      "Percentage of men and women ever tested for HIV Source: HNLSS, 2008-2009 (LGA)",
+      "9%"
+    ],
+    [
+      "",
+      "",
+      "Percentage of children under five sleeping under insecticide-treated bednets Source: DHS, 2008 (State)",
+      "8%"
+    ],
+    [
+      "",
+      "",
+      "Tuberculosis treatment success rate",
+      "N/A"
+    ],
+    [
+      "Goal 7: Ensure environmental sustainability"
+    ],
+    [
+      "",
+      "",
+      "Percentage of households with access to an improved water source Source: HNLSS, 2008-2009 (LGA)",
+      "9%"
+    ],
+    [
+      "",
+      "",
+      "Percentage of households with access to improved sanitation Source: HNLSS, 2008-2009 (LGA)",
+      "29%"
+    ]
+  ]
+}

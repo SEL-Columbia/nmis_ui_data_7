@@ -10,9 +10,11 @@
       "id": "enugu_isi_uzo",
       "url_code": "enugu/isi_uzo",
       "local_id": "isi_uzo",
+      "lat_lng": "7.687256,6.745281",
       "data_root": "districts/enugu_isi_uzo",
       "data_modules": [
         "facilities",
+        "profile_data",
         "summary",
         "gap"
       ],
