@@ -1,32 +1,10 @@
 {
-    "districts": [
-        {
-            "group": "enugu",
-            "data_root": "districts/enugu_isi_uzo",
-            "label": "Isi Uzo",
-            "data_modules": [
-                "facilities.json",
-                "profile_data.json",
-                "summary.json",
-                "summary_sectors.json"
-            ],
-            "local_id": "isi_uzo",
-            "lat_lng": "7.687256,6.745281",
-            "url_code": "enugu/isi_uzo",
-            "id": "enugu_isi_uzo",
-            "map_layers": []
-        }
-    ],
+    "version": 1,
+    "districts_json": "districts.json",
     "defaults": {
         "variables": "variables.json",
         "sectors": "sectors.json"
     },
-    "groups": [
-        {
-            "id": "enugu",
-            "label": "Enugu"
-        }
-    ],
     "title": "Nigeria MDG Information System (NMIS)",
     "id": "nmis_ui_data_2ef92c15",
     "groupings": {

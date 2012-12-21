@@ -1,0 +1,44 @@
+districts:
+-
+  id: examples_example
+  local_id: example
+  lat_lng: 40.7142,74.0064
+  url_code: examples/example
+  data_root: districts/examples_example
+
+  label: Example
+
+  group: examples
+- 
+  # should [id, local_id] be [global_id, id]?
+  id: enugu_isi_uzo
+  local_id: isi_uzo
+  lat_lng: 7.687256,6.745281
+  url_code: enugu/isi_uzo
+
+  # label is the name. (Should we just call it the label?)
+  label: Isi Uzo
+
+  # group is the ID of the state
+  group: enugu
+
+  # the data_root is the directory location (relative to the schema directory)
+  data_root: districts/enugu_isi_uzo
+
+  # the data_modules are files located in the "data_root" directory.
+  # the presence of a module also changes how the district's view page is organized
+  #  ...eg. a district with "gap.json" will display a tab for gap analysis.
+  # nmis_ui will be able to handle JSON and CSV files.
+  data_modules:
+  - facilities.json
+  - profile_data.json
+  - summary.json
+  - summary_sectors.json
+
+  # map_layers is not yet used.
+  map_layers: []
+
+# A list of all the
+groups:
+- {id: enugu, label: Enugu}
+- {id: examples, label: Examples}
