@@ -20,3 +20,6 @@ districts_json: districts.json
 defaults:
   sectors: sectors.json
   variables: variables.json
+
+map_layers:
+  map_layers.json

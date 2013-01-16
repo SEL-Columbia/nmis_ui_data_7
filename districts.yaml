@@ -9,6 +9,19 @@ districts:
   label: Example
 
   group: examples
+-
+  id: enugu_uzo_isi
+  local_id: example
+  lat_lng: 40.7142,74.0064
+  url_code: enugu/uzo_isi
+  data_root: districts/enugu_uzo_isi
+  label: Uzo Isi
+  group: enugu
+  data_modules:
+  - facilities.json
+  - profile_data.json
+  - summary.json
+  - summary_sectors.json
 - 
   # should [id, local_id] be [global_id, id]?
   id: enugu_isi_uzo
@@ -40,5 +53,7 @@ districts:
 
 # A list of all the
 groups:
-- {id: enugu, label: Enugu}
-- {id: examples, label: Examples}
+- {id: enugu, label: Enugu, group: southeast}
+- {id: examples, label: Examples, group: exampleZone}
+- {id: southeast, label: "South-East"}
+- {id: exampleZone, label: "Ex-Zone"}
