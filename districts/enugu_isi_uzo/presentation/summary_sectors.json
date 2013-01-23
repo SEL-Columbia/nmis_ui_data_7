@@ -1,0 +1,133 @@
+{
+  "z_view_details": [
+      {
+          "id": "overview",
+          "name": "Overview",
+          "modules": [
+              "overview_and_map",
+              "overview_facility_overview",
+              "overview_mdg_status"
+          ]
+      },
+      {
+          "id": "health",
+          "name": "Health",
+          "modules": [
+              "sector_overview",
+              "sector_gap"
+          ]
+      },
+      {
+          "id": "education",
+          "name": "Education",
+          "modules": [
+              "sector_overview",
+              "sector_gap"
+          ]
+      },
+      {
+          "id": "water",
+          "name": "Water",
+          "modules": [
+              "sector_overview",
+              "sector_gap"
+          ]
+      }
+  ],
+  "sectors": {
+    "health": [
+      {
+        "idRows": ["health_posts_and_dispensaries","primary_health_clinics","primary_health_centres","comprehensive_health_centres_and_hospitals","other_health_facilities","total_number_of_facilities","percentage_of_facilities_that_offer_inpatient_care","percentage_of_facilities_that_offer_care_24_hours_a_day_7_days_a_week"],
+        "name": "Facilities"
+      },
+      {
+        "idRows": ["total_number_of_doctors_in_the_lga","total_number_of_midwives_and_nurse_midwives_in_the_lga","total_number_of_nurses_in_the_lga","total_number_of_chews_jr_and_sr__in_the_lga","total_number_of_laboratory_technicians_in_the_lga","number_of_skilled_health_providers_per_1_000_population","number_of_chews_per_1_000_population","percentage_of_facilities_where_all_salaried_staff_were_paid_during_the_last_pay_period"],
+        "name": "Staffing"
+      },
+      {
+        "idRows": ["percentage_of_facilities_that_offer_routine_immunization","percentage_of_facilities_that_offer_growth_monitoring","percentage_of_facilities_that_offer_deworming","percentage_of_facilities_that_do_not_charge_any_fees_for_child_health_services"],
+        "name": "Child Health"
+      },
+      {
+        "idRows": ["percentage_of_facilities_that_offer_delivery_services_24_hours_a_day_7_days_a_week","percentage_of_facilities_with_at_least_one_skilled_birth_attendant","percentage_of_facilities_that_offer_antenatal_care","number_of_facilities_that_perform_caesarean_sections","percentage_of_facilities_with_access_to_emergency_transport_services","percentage_of_facilities_that_offer_family_planning_services","percentage_of_facilities_that_do_not_charge_any_fees_for_maternal_health_services"],
+        "name": "Maternal Health"
+      },
+      {
+        "idRows": ["percentage_of_facilities_that_offer_hiv_testing","percentage_of_facilities_that_offer_art_treatment","","percentage_of_facilities_that_offer_malaria_testing_rdt_or_microscopy_","percentage_of_facilities_that_offer_act_based_treatment_for_malaria","percentage_of_facilities_that_offer_malaria_prophylaxis_during_pregnancy","percentage_of_facilities_that_provide_bednets","percentage_of_facilities_that_do_not_charge_and_fees_for_malaria_related_services","","percentage_of_facilities_that_offer_tb_treatment","percentage_of_facilities_that_offer_tb_testing"],
+        "name": "HIV/AIDS, Malaria and other Diseases"
+      },
+      {
+        "idRows": ["percentage_of_facilities_with_access_to_some_form_of_power_source","percentage_of_facilities_with_access_to_an_improved_water_source","percentage_of_facilities_with_functioning_improved_sanitation","percentage_of_facilities_with_mobile_phone_coverage_somewhere_on_the_premises","percentage_of_facilities_that_separate_medical_waste_from_other_forms_of_waste"],
+        "name": "Infrastructure"
+      },
+      {
+        "idRows": ["percentage_of_facilities_that_experienced_a_stock_out_of_essential_medications_in_the_past_month"],
+        "name": "Equipment and Supplies"
+      }
+    ],
+    "education": [
+      {
+        "idRows": ["number_of_primary_schools_preprimary_primary_preprimary_primary_primary_js_","number_of_junior_secondary_schools_js_js_ss_","number_of_senior_secondary_schools_ss_","total_number_of_schools"],
+        "name": "Facilities"
+      },
+      {
+        "idRows": ["primary_net_intake_rate_nir_for_boys","primary_net_intake_rate_nir_for_girls","junior_secondary_net_intake_rate_nir_for_boys","junior_secondary_net_intake_rate_nir_for_girls","percentage_of_primary_schools_farther_than_1km_from_catchement_area","percentage_of_junior_secondary_schools_farther_than_1km_from_catchement_area","percentage_of_primary_schools_farther_than_1km_from_nearest_secondary_school","percentage_of_primary_schools_with_students_living_farther_than_3km","percentage_of_junior_secondary_schools_with_students_living_farther_than_3km"],
+        "name": "Access"
+      },
+      {
+        "idRows": ["primary_net_enrollment_rate_ner_for_boys","primary_net_enrollment_rate_ner_for_girls","junior_secondary_net_enrollment_rate_ner_for_boys","junior_secondary_net_enrollment_rate_ner_for_girls","gender_parity_index_gpi_for_primary_schools","gender_parity_index_gpi_for_junior_secondary_schools"],
+        "name": "Participation"
+      },
+      {
+        "idRows": ["percentage_of_primary_schools_with_access_to_potable_water","percentage_of_junior_secondary_schools_with_access_to_potable_water","percentage_of_primary_schools_with_improved_sanitation_toilet","percentage_of_junior_secondary_schools_with_improved_sanitation_toilet","percentage_of_primary_schools_with_gender_separated_toilets","percentage_of_junior_secondary_schools_with_gender_separated_toilets","pupil_to_toilet_ratio_primary_","pupil_to_toilet_ratio_junior_secondary_","","percentage_of_primary_schools_with_access_to_power","percentage_of_junior_secondary_schools_with_access_to_power","percentage_of_primary_school_classrooms_needing_major_repair","percentage_of_junior_secondary_school_classrooms_needing_major_repair","percentage_of_primary_school_classrooms_needing_minor_repair","percentage_of_junior_secondary_school_classrooms_needing_minor_repair","percentage_of_primary_schools_with_a_roof_in_good_condition","percentage_of_junior_secondary_schools_with_a_roof_in_good_condition","","percentage_of_primary_schools_with_a_dispensary_health_clinic","percentage_of_junior_secondary_schools_with_a_dispensary_health_clinic","percentage_of_primary_schools_with_a_first_aid_kit_only_not_a_health_clinic_","percentage_of_junior_secondary_schools_with_a_first_aid_kit_only_not_a_health_clinic_","percentage_of_primary_schools_with_a_wall_fence_in_good_condition","percentage_of_junior_secondary_schools_with_a_wall_fence_in_good_condition","","pupil_to_classroom_ratio_primary_","pupil_to_classroom_ratio_junior_secondary_","percentage_of_primary_schools_that_teach_outside_because_there_are_not_enough_classrooms","percentage_of_junior_secondary_schools_that_teach_outside_because_there_are_not_enough_classrooms","percentage_of_primary_schools_with_double_shifts","percentage_of_junior_secondary_schools_with_double_shifts","percentage_of_primary_schools_with_multi_grade_classrooms","percentage_of_junior_secondary_schools_with_multi_grade_classrooms"],
+        "name": "Infrastructure"
+      },
+      {
+        "idRows": ["percentage_of_primary_schools_with_a_chalkboard_in_every_classroom","percentage_of_junior_secondary_schools_with_a_chalkboard_in_every_classroom","pupil_to_bench_ratio_primary_","pupil_to_bench_ratio_junior_secondary_","pupil_to_desk_ratio_primary_","pupil_to_desk_ratio_junior_secondary_"],
+        "name": "Furniture"
+      },
+      {
+        "idRows": ["primary_school_pupil_to_teacher_ratio","junior_secondary_school_pupil_to_teacher_ratio","primary_school_teaching_to_non_teaching_staff_ratio","junior_secondary_teaching_to_non_teaching_staff_ratio","percentage_of_primary_school_qualified_teachers_with_nce_","percentage_of_junior_secondary_qualified_teachers_with_nce_","percentage_of_primary_school_teachers_who_participated_in_training_in_the_past_12_months","percentage_of_junior_secondary_school_teachers_who_participated_in_training_in_the_past_12_months"],
+        "name": "Adequacy of Staffing"
+      },
+      {
+        "idRows": ["percentage_of_primary_schools_that_have_delayed_teacher_payments_in_the_past_12_months","percentage_of_junior_secondary_schools_that_have_delayed_teacher_payments_in_the_past_12_months","percentage_of_primary_schools_that_have_missed_teacher_payments_in_the_past_12_months","percentage_of_junior_secondary_schools_that_have_missed_teacher_payments_in_the_past_12_months"],
+        "name": "Institutional Development"
+      },
+      {
+        "idRows": ["textbook_to_pupil_ratio_primary_","textbook_to_pupil_ratio_junior_secondary_","percentage_of_primary_schools_where_exercise_books_are_provided_to_students","percentage_of_junior_secondary_schools_where_exercise_books_are_provided_to_students","percentage_of_primary_schools_where_pens_pencils_are_provided_to_students","percentage_of_junior_secondary_schools_where_pens_pencils_are_provided_to_students","percentage_of_primary_schools_that_follow_the_national_ube_curriculum","percentage_of_junior_secondary_schools_that_follow_the_national_ube_curriculum","percentage_of_primary_schools_where_each_teacher_has_a_teaching_guidebook_for_every_subject","percentage_of_junior_secondary_schools_where_each_teacher_has_a_teaching_guidebook_for_every_subject","percentage_of_primary_schools_with_a_functioning_library","percentage_of_junior_secondary_schools_with_a_functioning_library"],
+        "name": "Curriculum Issues"
+      },
+      {
+        "idRows": ["drop_out_rate","transition_rate_primary_to_junior_secondary_for_boys","transition_rate_primary_to_junior_secondary_for_girls","repetition_rate_primary_for_boys","repetition_rate_primary_for_girls"],
+        "name": "Efficiency (flow rates)"
+      },
+      {
+        "idRows": ["literacy_rate_of_15_24_year_olds_men_and_women_"],
+        "name": "Learning Outcomes"
+      }
+    ],
+    "water": [
+      {
+        "idRows": ["number_of_boreholes_and_tube_wells","number_of_developed_and_treated_spring_and_surface_water","number_of_protected_dug_wells","number_of_other_types_of_protected_water_sources","number_of_assessed_unprotected_water_sources","total_number_of_water_sources"],
+        "name": "Type"
+      },
+      {
+        "idRows": ["percentage_of_boreholes_protected_or_treated_sources_that_are_poorly_maintained"],
+        "name": "Maintenance"
+      },
+      {
+        "idRows": ["population_served_per_well_maintained_borehole_protected_or_treated_water_source","population_served_per_borehole_protected_or_treated_water_source_whether_or_not_it_is_well_maintained_"],
+        "name": "Population Served"
+      },
+      {
+        "idRows": ["percentage_of_boreholes_and_tube_wells_with_a_non_motorized_lift_human_or_animal_powered_","percentage_of_boreholes_and_tube_wells_with_a_motorized_lift","percentage_of_boreholes_and_tube_wells_with_a_diesel_lift","percentage_of_boreholes_and_tube_wells_with_an_electric_motor_lift","percentage_of_boreholes_and_tube_wells_with_a_solar_lift"],
+        "name": "Lift Mechanisms for Boreholes and Tube Wells"
+      },
+      {
+        "idRows": ["percentage_of_non_motorized_human_or_animal_powered_lifts_that_are_poorly_maintained","percentage_of_all_motorized_lifts_that_are_poorly_maintained","percentage_of_diesel_powered_lifts_that_are_poorly_maintained","percentage_of_electrically_powered_lifts_that_are_poorly_maintained","percentage_of_solar_powered_lifts_that_are_poorly_maintained"],
+        "name": "Poorly Maintained Lift Mechanisms for Boreholes and Tube Wells"
+      }
+    ]
+  }
+}

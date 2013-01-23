@@ -14,12 +14,10 @@ groupings: {group: State, local: LGA}
 
 # Relative path to a file with a list of States and LGAs.
 # -> See districts.yaml for more info
-districts_json: districts.json
 
 # when a district cannot load a data module, it falls back on these defaults
 defaults:
-  sectors: sectors.json
-  variables: variables.json
-
-map_layers:
-  map_layers.json
+  - presentation/sectors.json
+  - variables/variables.json
+  - geo/districts.json
+  - presentation/facilities.json

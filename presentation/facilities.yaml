@@ -1,0 +1,6 @@
+profile_indicator_ids:
+  - lga_chairman
+  - lga_secretary
+  - population_2006
+  - area_square_km
+  - distance_from_capital_km

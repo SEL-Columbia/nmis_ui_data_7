@@ -10,30 +10,15 @@
             "label": "Example"
         },
         {
-            "group": "enugu",
-            "data_root": "districts/enugu_uzo_isi",
-            "label": "Uzo Isi",
-            "data_modules": [
-                "facilities.json",
-                "profile_data.json",
-                "summary.json",
-                "summary_sectors.json"
+            "files": [
+                "data/lga_data.json",
+                "presentation/summary.json",
+                "data/facilities.json",
+                "presentation/summary_sectors.json"
             ],
-            "local_id": "example",
-            "lat_lng": "40.7142,74.0064",
-            "url_code": "enugu/uzo_isi",
-            "id": "enugu_uzo_isi"
-        },
-        {
             "group": "enugu",
             "data_root": "districts/enugu_isi_uzo",
             "label": "Isi Uzo",
-            "data_modules": [
-                "facilities.json",
-                "profile_data.json",
-                "summary.json",
-                "summary_sectors.json"
-            ],
             "local_id": "isi_uzo",
             "lat_lng": "7.687256,6.745281",
             "url_code": "enugu/isi_uzo",

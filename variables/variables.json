@@ -1,4 +1,895 @@
 {
+  "list": [
+    {
+      "slug": "lga_chairman",
+      "name": "LGA Chairman"
+    },
+    {
+      "slug": "lga_secretary",
+      "name": "LGA Secretary"
+    },
+    {
+      "slug": "population_2006",
+      "name": "Population (2006)"
+    },
+    {
+      "slug": "area_square_km",
+      "name": "Area (square km)"
+    },
+    {
+      "slug": "distance_from_capital_km",
+      "name": "Distance from Capital (km)"
+    },
+    {
+      "sector": "health",
+      "in_overview": "yes",
+      "slug": "primary_health_clinics_per_10000",
+      "name": "Number of primary health care facilities in the LGA per 10,000 population",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "in_overview": "yes",
+      "slug": "proportion_at_least_1_sba",
+      "name": "Proportion of health facilities in the LGA that offer institutional delivery",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "in_overview": "yes",
+      "slug": "proportion_access_functional_emergency_transport",
+      "name": "Proportion of facilities that have access to functional emergency transport",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "in_overview": "yes",
+      "slug": "proportion_primary_care",
+      "name": "Proportion of facilities providing primary care",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "in_overview": "yes",
+      "slug": "num_doctors",
+      "name": "# of physicians in the LGA (fulltime)",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "in_overview": "yes",
+      "slug": "num_nurses_and_midwives_per_1000",
+      "name": "# of nurses and mid-wives per 1,000 population",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "in_overview": "yes",
+      "slug": "num_chews_per_1000",
+      "name": "# of CHEWs per 1,000 population",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "in_overview": "yes",
+      "slug": "avg_km_to_referral_facility",
+      "name": "Average distance to a referral facility (km)",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "num_health_facilities",
+      "name": "Number of health facilities",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "num_level_1_health_facilities",
+      "name": "Number of health posts and dispensaries",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "proportion_level_1_health_facilities",
+      "name": "Proportion of health posts and dispensaries",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "num_level_2_health_facilities",
+      "name": "Number of primary health clinics",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "proportion_level_2_health_facilities",
+      "name": "Proportion of primary health clinics",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "num_level_3_health_facilities",
+      "name": "Number of comprehensive primary health care centres",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "proportion_level_3_health_facilities",
+      "name": "Proportion of comprehensive primary health care centres",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "num_level_4_health_facilities",
+      "name": "Number of hospitals",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "proportion_level_4_health_facilities",
+      "name": "Proportion of hospitals",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "num_health_facilities_open_24_7",
+      "name": "Number of health facilities open 24/7",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "proportion_health_facilities_open_24_7",
+      "name": "Proportion of health facilities open 24/7",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "proportion_routine_immunization",
+      "name": "Proportion of facilities that offer routine immunization",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "proportion_growth_monitoring",
+      "name": "Proportion of facilities that offer growth monitoring",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "proportion_malaria_treatment",
+      "name": "Proportion of facilities that offer malaria treatment",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "proportion_deworming",
+      "name": "Proportion of facilities that offer deworming",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "proportion_no_user_fees_child_health",
+      "name": "Proportion of facilities that offer child health services free of charge (no user fees)",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "avg_child_health_rating",
+      "name": "Average child health services performance for all the facilities in the LGA based on  whether they each charge fees for child health services and the number child health services they offer (routine immunization, growth monitoring, malaria treatment)",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "proportion_emoc",
+      "name": "Proportion of facilities that offer emergency obstetric services (basic or comprehensive)",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "proportion_family_planning",
+      "name": "Proportion of facilities that offer family planning services",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "proportion_access_functional_emergency_transport",
+      "name": "Proportion of facilities that have access to functional emergency transport",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "proportion_antenatal",
+      "name": "Proportion of facilities that offer antenatal care services",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "proportion_delivery_24_7",
+      "name": "Proportion of facilities that offer delivery services 24  hours a day and seven days a week",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "proportion_delivery_no_user_fees",
+      "name": "Proportion of facilities that provide labor and delivery services free of charge (no user fees)",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "avg_maternal_health_rating",
+      "name": "Average maternal health services performance based on whether the facilities in the LGA charge fees for delivery servcies and on how many maternal health services are offered at the facilities (emergency obstetric  care, family planning, emergency transport and antenatal care)",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "proportion_malaria_testing",
+      "name": "Proportion of facilities that offer malaria testing ",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "proportion_act_treatment_for_malaria",
+      "name": "Proportion of facilities that offer ACT treatment for malaria",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "proportion_offer_bednets",
+      "name": "Proportion of facilities that offer bednets",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "proportion_malaria_prevention_pregnancy",
+      "name": "Proportion of facilities that offer sulphadoxine for malaria prevention to pregnant women",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "proportion_no_user_fees_malaria",
+      "name": "Proportion of facilities that offer malaria services free of charge (no user fees)",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "avg_malaria_rating",
+      "name": "Average malaria services performance assesses the facilities in the LGA based whether they charge fees for malaria services and on how many malaria services are offered at the facility (testing, treatment, bednets, prevention during pregnancy)",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "num_doctors",
+      "name": "Number of doctors",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "num_nurses",
+      "name": "Number of nurses",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "num_nursemidwives_midwives",
+      "name": "Number of nurse-midwives and midwives",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "num_chews",
+      "name": "Number of CHEWs",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "proportion_at_least_1_sba",
+      "name": "Proportion of facilities with at least one skilled birth attendant (including doctors, midwives, and nurse-midwives)",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "proportion_at_least_1_chew",
+      "name": "Proportion of facilities that have at least one CHEW (Jr or Sr)",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "proportion_adequate_staff",
+      "name": "Proportion of facilities that  were not short of staff (and had at least one person) for more than one week during the past month",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "proportion_staff_paid",
+      "name": "Proportion of facilities at which staff were paid in the previous pay period",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "avg_staffing_rating",
+      "name": "Average staffing performance at the facilities in the LGA based on how many staffing standards  are met at each facility (out of four: skilled health providers, CHEWs, adequate staffing, and staff were paid in previous period)",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "proportion_access_functional_emergency_transport",
+      "name": "Proportion of facilities that have access to functional emergency transport",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "in_overview": "yes",
+      "slug": "proportion_stockout_essential_meds",
+      "name": "Proportion of facilities that had a stock out of essential medications (anti-malarial, anti-diarrheal, and/or antibiotics) for at least one week in the past month",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "avg_equip_supplies_rating",
+      "name": "Average performance related to equipment and supplies is an  assessment of the facilities in the LGA based on a proxy for overall equipment and supplies performance. The proxy is the availability of functioning emergency transport and no medication stockouts of more than one week in the past three months.",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "proportion_water_access",
+      "name": "Proportion of facilities that have access to an improved water source",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "proportion_any_power_access",
+      "name": "Proportion of facilities that have access to any source of power",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "proportion_functional_sanitation",
+      "name": "Proportion of facilities that have access to improved sanitation/toilets",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "proportion_mobile_coverage",
+      "name": "Proportion of facilities in the LGA that have mobile phone coverage",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "health",
+      "slug": "avg_infrastructure_rating",
+      "name": "Average infrastructure rating is an assessment of the facilities in the LGA based on how many forms of infrastructure they each have available (out of four: water, sanitation, power, mobile phone coverage)",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "in_overview": "yes",
+      "slug": "proportion_schools_1kmplus_catchment",
+      "name": "Proportion of schools farther than 1km from catchment area"
+    },
+    {
+      "sector": "education",
+      "in_overview": "yes",
+      "slug": "proportion_classrooms_need_major_repair",
+      "name": "Proportion of classrooms that need major repair in the LGA"
+    },
+    {
+      "sector": "education",
+      "in_overview": "yes",
+      "slug": "proportion_schools_potable_water",
+      "name": "Proportion of schools with access to potable water"
+    },
+    {
+      "sector": "education",
+      "in_overview": "yes",
+      "slug": "num_textbooks_per_pupil",
+      "name": "Textbooks per pupil"
+    },
+    {
+      "sector": "education",
+      "in_overview": "yes",
+      "slug": "student_classroom_ratio_lga",
+      "name": "Pupil to classroom ratio"
+    },
+    {
+      "sector": "education",
+      "in_overview": "yes",
+      "slug": "student_teacher_ratio_lga",
+      "name": "Pupil to teacher ratio",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "in_overview": "yes",
+      "slug": "proportion_schools_1kmplus_catchment",
+      "name": "Proportion of schools more than 1km from the catchment area"
+    },
+    {
+      "sector": "education",
+      "in_overview": "yes",
+      "slug": "num_primary_schools_govt_and_private",
+      "name": "Number of existing public and private primary schools in the LGA"
+    },
+    {
+      "sector": "education",
+      "in_overview": "yes",
+      "slug": "pop_6_11",
+      "name": "Primary school age population (6 to 11 years)",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "in_overview": "yes",
+      "slug": "pop_12_17",
+      "name": "Secondary school age population (12 to 17 years)"
+    },
+    {
+      "sector": "education",
+      "in_overview": "yes",
+      "slug": "num_primary_schools",
+      "name": "Number of primary schools",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "in_overview": "yes",
+      "slug": "num_junior_secondary_schools",
+      "name": "Number of junior secondary schools",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "in_overview": "yes",
+      "slug": "pupil_toilet_ratio",
+      "name": "Pupil to toilet ratio"
+    },
+    {
+      "sector": "education",
+      "in_overview": "yes",
+      "slug": "literacy_rate",
+      "name": "Literacy Rate",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "name": "Net Intake Rate (NIR) for boys and girls in primary school",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "name": "Net Intake Rate (NIR) for boys and girls in junior secondary school",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "name": "Teaching/Non-teaching staff ratio",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "name": "Proportion of teachers with NCE qualification",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "proportion_schools_1kmplus_catchment",
+      "name": "Proportion of schools farther than 1km from catchment area",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "proportion_schools_1kmplus_ss",
+      "name": "Proportion of schools farther than 1km from its nearest secondary school",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "proportion_students_3kmplus_ss",
+      "name": "Proportion of schools with students living more than 3km away from the school",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "proportion_schools_potable_water",
+      "name": "Proportion of schools with access to potable water",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "proportion_schools_improved_sanitation",
+      "name": "Proportion of schools with improved sanitation/toilet",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "proportion_schools_gender_sep_toilet",
+      "name": "Proportion of schools with gender-separated toilet(s)",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "proportion_classrooms_need_major_repair",
+      "name": "Proportion of classrooms that need major repair in the LGA",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "proportion_classrooms_need_minor_repair",
+      "name": "Proportion of classrooms that need minor repair in the LGA",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "number_classrooms_need_major_repair",
+      "name": "Total number of classrooms that need major repair in the LGA",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "number_classrooms_need_minor_repair",
+      "name": "Total number of classrooms that need minor repair in the LGA",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "proportion_schools_power_access",
+      "name": "Proportion of schools with access to power source",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "proportion_schools_covered_roof_good_cond",
+      "name": "Proportion of schools with a roof in good condition",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "proportion_schools_with_clinic_dispensary",
+      "name": "Proportion of schools with health clinic",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "proportion_schools_with_first_aid",
+      "name": "Proportion of schools with first aid kit",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "proportion_schools_fence_good_cond",
+      "name": "Proportion of schools with wall/fence in good condition",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "proportion_schools_hold_class_outside",
+      "name": "Proportion of schools whose class was held outside due to lack of classroom",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "proportion_schools_multigrade_classrooms",
+      "name": "Proportion of schools with multigrade classroom(s)",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "proportion_schools_two_shifts",
+      "name": "Proportion of schools with double shift arrangement",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "proportion_schools_chalkboard_all_rooms",
+      "name": "Proportion of schools with a chalkboard in every classroom",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "proportion_teachers_training_past_year",
+      "name": "Proportion of teachers who attended training in past 12 months",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "proportion_schools_delay_pay",
+      "name": "Proportion of schools with teacher pay delay in past 12 months",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "proportion_schools_missed_pay",
+      "name": "Proportion of schools with teacher pay miss in past 12 months",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "proportion_provide_exercise_books",
+      "name": "Proportion of schools that provide exercise books to students",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "proportion_provide_pens_pencils",
+      "name": "Proportion of schools that provide pens/pencils to students",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "proportion_natl_curriculum",
+      "name": "Proportion of schools that has national UBE curriculum ",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "proportion_teachers_with_teacher_guide",
+      "name": "Proportion of schools that has teacher guidebook for every subject",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "proportion_schools_functioning_library",
+      "name": "Proportion of schools with a functioning library",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "student_classroom_ratio_lga",
+      "name": "Pupil to classroom ratio in the LGA",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "net_enrollment_ratio_primary_education",
+      "name": "Net Enrolment Ratio (NER) for primary schools",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "net_enrollment_ratio_secondary_education",
+      "name": "Net Enrolment Ratio (NER) for secondary schools",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "girl_boy_ratio_lga",
+      "name": "Girl to boy ratio in primary schools in the LGA",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "proportion_schools_nomadic",
+      "name": "Percentage of nomadic schools",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "avg_school_enrollment_fee",
+      "name": "Average school enrollment fees (Naira)",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "avg_school_continuation_fee",
+      "name": "Average school continuation fees (Naira)",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "avg_uniforms_fee",
+      "name": "Average uniform fees (Naira)",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "avg_textbooks_fee",
+      "name": "Average textbook fees (Naira)",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "name": "Drop out rate",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "transition_rate_primary_to_js1_female",
+      "name": "Transition rate for females from primary to JS1",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "transition_rate_primary_to_js1_male",
+      "name": "Transition rate for males from primary to JS1",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "repetition_rate_primary_male",
+      "name": "Percent male repeaters im primary school",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "slug": "repetition_rate_primary_female",
+      "name": "Percent female repeaters in primary school",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "name": "Proportion of individuals between 15-24 who can read and write",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "name": "Proportion of children who can do basic literacy",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "name": "Proportion of children who can do basic numeracy",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "education",
+      "name": "Proportion of children who can do life skills",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "water",
+      "in_overview": "yes",
+      "slug": "proportion_water_poorly_maintained",
+      "name": "Proportion of poorly maintained water points"
+    },
+    {
+      "sector": "water",
+      "in_overview": "yes",
+      "slug": "proportion_water_missing_parts_or_need_repair",
+      "name": "Proportion of water points missing parts or in need of repair"
+    },
+    {
+      "sector": "water",
+      "in_overview": "yes",
+      "name": "Proportion of water points located within 1KM of a school or health facility with a grid connection"
+    },
+    {
+      "sector": "water",
+      "in_overview": "yes",
+      "slug": "proportion_water_non_manual_lift_mechanism",
+      "name": "Proportion of water points with a  mechanical/non-manual lift mechanism"
+    },
+    {
+      "sector": "water",
+      "in_overview": "yes",
+      "slug": "proportion_water_other_close_water_source",
+      "name": "Proportion of water points within 1KM of another safe/drinkable source of water ",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "water",
+      "slug": "proportion_lift_type_diesel",
+      "name": "Proportion of water points with a diesel pump",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "water",
+      "slug": "proportion_lift_type_electric",
+      "name": "Proportion of water points with an electric motor pump",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "water",
+      "slug": "proportion_lift_type_solar",
+      "name": "Proportion of water points with a solar pump",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "water",
+      "slug": "proportion_lift_type_hand_pump",
+      "name": "Proportion of water points with a hand pump",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "water",
+      "slug": "proportion_lift_type_rope_pulley",
+      "name": "Proportion of water points with a rope/pulley lift mecahnism",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "water",
+      "slug": "proportion_lift_type_animal",
+      "name": "Proportion of water points with a an animal powered pump",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "water",
+      "slug": "proportion_lift_type_other",
+      "name": "Proportion of water points with an unspecified type of lift mechanism",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "water",
+      "slug": "proportion_water_poorly_maintained",
+      "name": "Proportion of poorly maintained water points",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "water",
+      "slug": "proportion_water_condition_unkown",
+      "name": "Proportion of water points for which physical condition is unkown",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "water",
+      "slug": "proportion_water_broken_pump",
+      "name": "Proportion of water points with a broken pump machanism",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "water",
+      "slug": "proportion_water_broken_no_answer",
+      "name": "Proportion of water points that are unused for an unspecified reason (no answer)",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "water",
+      "slug": "proportion_water_broken_other",
+      "name": "Proportion of water points that are unused for an unspecified reason (other)",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "water",
+      "slug": "proportion_water_no_diesel",
+      "name": "Proportion of diesel-powered water points with no diesel",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "water",
+      "slug": "proportion_water_no_electricity",
+      "name": "Proportion of electric water points with no electricity",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "water",
+      "slug": "proportion_water_missing_or_stolen_parts",
+      "name": "Proportion of water points with missing or stolen parts",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "water",
+      "slug": "proportion_water_broken_lift",
+      "name": "Proportion of water points with a broken lift mechanism",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "water",
+      "slug": "proportion_water_broken_tap",
+      "name": "Proportion of water points with a broken kiosk, tap, or tank",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "water",
+      "slug": "proportion_water_poor_water_quality",
+      "name": "Proportion of water points with poor water quality",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "water",
+      "slug": "proportion_water_dry_well",
+      "name": "Proportion of water points with a dry well",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "water",
+      "slug": "proportion_water_under_construction",
+      "name": "Proportion of water points that are under construction",
+      "in_sector": "yes"
+    },
+    {
+      "sector": "water",
+      "slug": "proportion_water_broken_dont_know",
+      "name": "Proportion of water points that are unused for an unspecified reason (don't know)",
+      "in_sector": "yes"
+    }
+  ],
   "overview": [
     {
       "sector": "health",
