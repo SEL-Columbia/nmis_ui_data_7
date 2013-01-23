@@ -12,7 +12,6 @@
         {
             "files": [
                 "data/lga_data.json",
-                "presentation/summary.json",
                 "data/facilities.json",
                 "presentation/summary_sectors.json"
             ],

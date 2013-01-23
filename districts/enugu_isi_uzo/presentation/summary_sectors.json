@@ -1,5 +1,5 @@
 {
-  "z_view_details": [
+  "view_details": [
       {
           "id": "overview",
           "name": "Overview",
@@ -34,6 +34,128 @@
           ]
       }
   ],
+  "relevant_data": {
+      "overview": {
+          "overview_and_map": {"ids": [
+              "lga_chairman",
+              "lga_secretary",
+              "population_2006",
+              "area_square_km",
+              "distance_from_capital_km"
+          ]},
+          "overview_facility_overview": {
+              "columns": [
+                  {
+                      "name": "Health Facilities",
+                      "rows": [
+                          "health_posts_and_dispensaries",
+                          "primary_health_clinics",
+                          "primary_health_centres",
+                          "comprehensive_health_centres_&amp;_hospitals",
+                          "other_health_facillities",
+                          "facilities_that_perform_caesarean_sections",
+                          "skilled_health_providers_per_1000_population",
+                          "chews_per_1000_population"
+                      ]
+                  },
+                  {
+                      "name": "Schools",
+                      "rows": [
+                          "preprimary",
+                          "preprimary_and_primary",
+                          "primary",
+                          "primary_and_junior_secondary",
+                          "junior_secondary",
+                          "junior_and_senior_secondary",
+                          "senior_secondary",
+                          "primary,_junior_and_senior_secondary",
+                          "other_schools",
+                          "pupil_to_teacher_ratio",
+                          "percentage_of_teachers_with_nce_qualification",
+                          "classrooms_in_need_of_major_repairs"
+                      ]
+                  },
+                  {
+                      "name": "Water Points",
+                      "rows": [
+                          "developed/treated_spring_and_surface_water",
+                          "protected_dug_wells",
+                          "boreholes_and_tube_wells",
+                          "boreholes_and_tube_wells_with_non-motorized_lift/pump_mechanisms",
+                          "boreholes_and_tube_wells_with_motorized_lift/pump_mechanisms",
+                          "well-maintained_boreholes,_protected_and_treated_water_sources",
+                          "population_served_per_well-maintained_borehole,_protected_or_treated_water_source"
+                      ]
+                  }
+              ]
+          },
+          "overview_mdg_status": [
+              {
+                  "header": "Goal 1: Eradicate extreme poverty and hunger",
+                  "rows": [
+                      "u5_underweight",
+                      "u5_stunting",
+                      "u5_wasting"
+                  ]
+              },
+              {
+                  "header": "Goal 2: Achieve universal primary education",
+                  "rows": [
+                      "net_enrollment_rate_for_primary_education",
+                      "gross_enrollment_rate_in_primary_education",
+                      "net_enrollment_rate_for_secondary_education",
+                      "gross_enrollment_rate_in_secondary_education",
+                      "literacy_rate_of_15_24_year_olds__men_and_women_"
+                  ]
+              },
+              {
+                  "header": "Goal 3: Promote gender equality and empower women",
+                  "rows": [
+                      "ratio_of_girls_to_boys_in_primary_schools",
+                      "ratio_of_girls_to_boys_in_junior_secondary_schools",
+                      "ratio_of_girls_to_boys_in_senior_secondary_schools",
+                      "gender_parity_index__gpi__for_primary_schools",
+                      "gender_parity_index__gpi__for_junior_secondary_schools"
+                  ]
+              },
+              {
+                  "header": "Goal 4: Reduce child mortality",
+                  "rows": [
+                      "under_five_mortality_rate__per_1_000_live_births_",
+                      "infant_mortality_rate__per_1_000_live_births_",
+                      "measles_immunization_rate",
+                      "dpt_3_immunization_rate",
+                      "percentage_of_children_under_five_years_of_age_with_diarrhea_who_received_oral_rehydration_therapy"
+                  ]
+              },
+              {
+                  "header": "Goal 5: Improve maternal health",
+                  "rows": [
+                      "maternal_mortality",
+                      "percentage_of_births_attended_by_a_skilled_birth_attendant",
+                      "percentage_of_women_who_attended_at_least_four_antenatal_visits",
+                      "percentage_of_pregnant_women_tested_for_hiv"
+                  ]
+              },
+              {
+                  "header": "Goal 6: Combat HIV/AIDS, malaria and other diseases",
+                  "rows": [
+                      "hiv_prevalence",
+                      "percentage_of_men_and_women_ever_tested_for_hiv",
+                      "percentage_of_children_under_five_sleeping_under_insecticide_treated_bednets",
+                      "tuberculosis_treatment_success_rate"
+                  ]
+              },
+              {
+                  "header": "Goal 7: Ensure environmental sustainability",
+                  "rows": [
+                      "percentage_of_households_with_access_to_an_improved_water_source",
+                      "percentage_of_households_with_access_to_improved_sanitation"
+                  ]
+              }
+          ]
+      }
+  },
   "sectors": {
     "health": [
       {
