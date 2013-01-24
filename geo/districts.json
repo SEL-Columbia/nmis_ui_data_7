@@ -10,11 +10,11 @@
             "label": "Example"
         },
         {
-            "files": [
-                "data/lga_data.json",
-                "data/facilities.json",
-                "presentation/summary_sectors.json"
-            ],
+            "files": {
+                "presentation/summary_sectors": "presentation/summary_sectors.json",
+                "data/facilities": "data/facilities.json",
+                "data/lga_data": "data/lga_data.json"
+            },
             "group": "enugu",
             "data_root": "districts/enugu_isi_uzo",
             "label": "Isi Uzo",

@@ -31,9 +31,12 @@ districts:
   # nmis_ui will be able to handle JSON and CSV files.
 
   files:
-  - data/lga_data.json
-  - data/facilities.json
-  - presentation/summary_sectors.json
+    data/lga_data:
+      data/lga_data.json
+    data/facilities:
+      data/facilities.json
+    presentation/summary_sectors:
+      presentation/summary_sectors.json
 
   # data_modules:
   # - facilities.json

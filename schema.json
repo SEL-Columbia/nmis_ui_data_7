@@ -2,12 +2,20 @@
     "title": "Nigeria MDG Information System (NMIS)",
     "version": 1,
     "id": "nmis_ui_data_2ef92c15",
-    "defaults": [
-        "presentation/sectors.json",
-        "variables/variables.json",
-        "geo/districts.json",
-        "presentation/facilities.json"
-    ],
+    "defaults": {
+        "presentation/sectors": [
+            "presentation/sectors.json"
+        ],
+        "geo/districts": [
+            "geo/districts.json"
+        ],
+        "presentation/facilities": [
+            "presentation/facilities.json"
+        ],
+        "variables/variables": [
+            "variables/variables.json"
+        ]
+    },
     "groupings": {
         "group": "State",
         "local": "LGA"

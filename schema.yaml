@@ -17,7 +17,11 @@ groupings: {group: State, local: LGA}
 
 # when a district cannot load a data module, it falls back on these defaults
 defaults:
-  - presentation/sectors.json
-  - variables/variables.json
-  - geo/districts.json
-  - presentation/facilities.json
+  presentation/sectors:
+    - presentation/sectors.json
+  variables/variables:
+    - variables/variables.json
+  geo/districts:
+    - geo/districts.json
+  presentation/facilities:
+    - presentation/facilities.json
