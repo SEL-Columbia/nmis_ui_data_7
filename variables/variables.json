@@ -86,7 +86,7 @@
     },
     {
       "slug": "chairman_name",
-      "name": "chairman_name(name=='')",
+      "name": "LGA Chairman",
       "data_type": "string",
       "description": ""
     },
@@ -296,7 +296,7 @@
     },
     {
       "slug": "state_capital_distance",
-      "name": "state_capital_distance(name=='')",
+      "name": "Distance from capital (km)",
       "data_type": "float",
       "description": ""
     },
@@ -548,7 +548,7 @@
     },
     {
       "slug": "num_preprimary_primary_level",
-      "name": "Preprimary",
+      "name": "Preprimary and primary",
       "data_type": "float",
       "description": ""
     },
@@ -1202,7 +1202,7 @@
     },
     {
       "slug": "num_ss_level",
-      "name": "num_ss_level(name=='')",
+      "name": "Senior secondary",
       "data_type": "float",
       "description": ""
     },
@@ -1340,7 +1340,7 @@
     },
     {
       "slug": "secretary_name",
-      "name": "secretary_name(name=='')",
+      "name": "LGA Secretary",
       "data_type": "string",
       "description": ""
     },
@@ -1460,7 +1460,7 @@
     },
     {
       "slug": "pop_population",
-      "name": "Population",
+      "name": "Population (2006)",
       "data_type": "float",
       "description": ""
     },
