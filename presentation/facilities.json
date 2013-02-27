@@ -1,1 +1,9 @@
-{"profile_indicator_ids": ["chairman_name", "secretary_name", "pop_population", "area_sq_km", "state_capital_distance"]}
+{
+    "profile_indicator_ids": [
+        "chairman_name", 
+        "secretary_name", 
+        "pop_population", 
+        "area_sq_km", 
+        "state_capital_distance"
+    ]
+}
