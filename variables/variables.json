@@ -128,7 +128,7 @@
     },
     {
       "slug": "num_overhead_tanks",
-      "name": "num_overhead_tanks(name=='')",
+      "name": "- Overhead tanks",
       "data_type": "float",
       "description": ""
     },
@@ -212,7 +212,7 @@
     },
     {
       "slug": "num_total_water_points",
-      "name": "num_total_water_points(name=='')",
+      "name": "Total number of water points",
       "data_type": "float",
       "description": ""
     },
@@ -242,7 +242,7 @@
     },
     {
       "slug": "percentage_functional_handpumps",
-      "name": "percentage_functional_handpumps(name=='')",
+      "name": "Percentage functional",
       "data_type": "percent",
       "description": ""
     },
@@ -302,7 +302,7 @@
     },
     {
       "slug": "percentage_functional_taps",
-      "name": "percentage_functional_taps(name=='')",
+      "name": "Percentage of taps that are functional",
       "data_type": "percent",
       "description": ""
     },
@@ -350,13 +350,13 @@
     },
     {
       "slug": "percentage_electric_functional",
-      "name": "percentage_electric_functional(name=='')",
+      "name": "Percentage functional",
       "data_type": "percent",
       "description": ""
     },
     {
       "slug": "num_unimproved_points",
-      "name": "num_unimproved_points(name=='')",
+      "name": "Number of unimproved water points",
       "data_type": "float",
       "description": ""
     },
@@ -398,13 +398,13 @@
     },
     {
       "slug": "percentage_diesel_functional",
-      "name": "percentage_diesel_functional(name=='')",
+      "name": "Percentage functional",
       "data_type": "percent",
       "description": ""
     },
     {
       "slug": "num_handpumps",
-      "name": "num_handpumps(name=='')",
+      "name": "TODO (num_handpumps)",
       "data_type": "float",
       "description": ""
     },
@@ -416,7 +416,7 @@
     },
     {
       "slug": "num_diesel",
-      "name": "num_diesel(name=='')",
+      "name": "Number",
       "data_type": "float",
       "description": ""
     },
@@ -482,7 +482,7 @@
     },
     {
       "slug": "num_electric",
-      "name": "num_electric(name=='')",
+      "name": "Number",
       "data_type": "float",
       "description": ""
     },
@@ -806,7 +806,7 @@
     },
     {
       "slug": "percentage_solar_functional",
-      "name": "percentage_solar_functional(name=='')",
+      "name": "Percentage functional",
       "data_type": "percent",
       "description": ""
     },
@@ -890,7 +890,7 @@
     },
     {
       "slug": "num_improved_water_points",
-      "name": "num_improved_water_points(name=='')",
+      "name": "Number of improved water points",
       "data_type": "float",
       "description": ""
     },
@@ -1118,7 +1118,7 @@
     },
     {
       "slug": "num_taps",
-      "name": "num_taps(name=='')",
+      "name": "- Taps",
       "data_type": "float",
       "description": ""
     },
@@ -1346,7 +1346,7 @@
     },
     {
       "slug": "num_solar",
-      "name": "num_solar(name=='')",
+      "name": "Number",
       "data_type": "float",
       "description": ""
     },
@@ -1484,7 +1484,7 @@
     },
     {
       "slug": "percentage_functional_improved",
-      "name": "percentage_functional_improved(name=='')",
+      "name": "Percentage of improved water points that are functional",
       "data_type": "percent",
       "description": ""
     },
