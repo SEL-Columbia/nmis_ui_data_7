@@ -86,19 +86,19 @@
     },
     {
       "slug": "chairman_name",
-      "name": "chairman_name(name=='')",
+      "name": "LGA Chairman",
       "data_type": "string",
       "description": ""
     },
     {
       "slug": "tb_treatment_success_rate",
-      "name": "Variable not found: tb_treatment_success_rate",
+      "name": "Tuberculosis treatment success rate",
       "data_type": "error",
       "description": ""
     },
     {
       "slug": "net_enrollment_ratio_secondary_education",
-      "name": "Net enrollment ratio for secondary education [LGA]",
+      "name": "Net enrollment rate for secondary education",
       "data_type": "percent",
       "description": "Number of children of secondary school  going age who are enrolled in it, as a percentage of the official secondary going age population respectively"
     },
@@ -122,13 +122,13 @@
     },
     {
       "slug": "num_skilled_health_providers_per_1000",
-      "name": "num_skilled_health_providers_per_1000(name=='')",
+      "name": "Skilled health providers per 1,000 population",
       "data_type": "float",
       "description": ""
     },
     {
       "slug": "num_overhead_tanks",
-      "name": "num_overhead_tanks(name=='')",
+      "name": "- Overhead tanks",
       "data_type": "float",
       "description": ""
     },
@@ -140,7 +140,7 @@
     },
     {
       "slug": "gross_enrollment_ratio_secondary_education",
-      "name": "Gross enrollment ratio for secondary education [LGA]",
+      "name": "Gross enrollment rate for secondary education",
       "data_type": "percent",
       "description": "Total enrollment in secondary school, regardless of age, expressed as a percentage of the eligible official secondary school-age population "
     },
@@ -164,13 +164,13 @@
     },
     {
       "slug": "num_js_level",
-      "name": "num_js_level(name=='')",
+      "name": "Junior secondary",
       "data_type": "float",
       "description": ""
     },
     {
       "slug": "proportion_of_children_u5_diarrhea_treated_with_ors_med",
-      "name": "Proportion of children under 5 with diarrhea who are treated with appropriate ORS medication ",
+      "name": "Percentage of children under five years of age with diarrhea who received oral rehydration therapy ",
       "data_type": "percent",
       "description": "Percentage of Children under 5 years old who had diarrhea in the last two weeks who were treated with ORS or RHS "
     },
@@ -212,7 +212,7 @@
     },
     {
       "slug": "num_total_water_points",
-      "name": "num_total_water_points(name=='')",
+      "name": "Total number of water points",
       "data_type": "float",
       "description": ""
     },
@@ -242,13 +242,13 @@
     },
     {
       "slug": "percentage_functional_handpumps",
-      "name": "percentage_functional_handpumps(name=='')",
+      "name": "Percentage functional",
       "data_type": "percent",
       "description": ""
     },
     {
       "slug": "num_primary_level",
-      "name": "num_primary_level(name=='')",
+      "name": "Primary",
       "data_type": "float",
       "description": ""
     },
@@ -272,7 +272,7 @@
     },
     {
       "slug": "num_chews_per_1000",
-      "name": "num_chews_per_1000(name=='')",
+      "name": "CHEWs per 1,000 population",
       "data_type": "float",
       "description": ""
     },
@@ -296,19 +296,19 @@
     },
     {
       "slug": "state_capital_distance",
-      "name": "state_capital_distance(name=='')",
+      "name": "Distance from capital (km)",
       "data_type": "float",
       "description": ""
     },
     {
       "slug": "percentage_functional_taps",
-      "name": "percentage_functional_taps(name=='')",
+      "name": "Percentage of taps that are functional",
       "data_type": "percent",
       "description": ""
     },
     {
       "slug": "percent_antenatal_care_four",
-      "name": "percent_antenatal_care_four(name=='')",
+      "name": "Percentage of women who attended at least four antenatal visits ",
       "data_type": "percent",
       "description": ""
     },
@@ -338,7 +338,7 @@
     },
     {
       "slug": "num_level_1_health_facilities",
-      "name": "num_level_1_health_facilities(name=='')",
+      "name": "Health posts and dispensaries",
       "data_type": "float",
       "description": ""
     },
@@ -350,13 +350,13 @@
     },
     {
       "slug": "percentage_electric_functional",
-      "name": "percentage_electric_functional(name=='')",
+      "name": "Percentage functional",
       "data_type": "percent",
       "description": ""
     },
     {
       "slug": "num_unimproved_points",
-      "name": "num_unimproved_points(name=='')",
+      "name": "Number of unimproved water points",
       "data_type": "float",
       "description": ""
     },
@@ -398,13 +398,13 @@
     },
     {
       "slug": "percentage_diesel_functional",
-      "name": "percentage_diesel_functional(name=='')",
+      "name": "Percentage functional",
       "data_type": "percent",
       "description": ""
     },
     {
       "slug": "num_handpumps",
-      "name": "num_handpumps(name=='')",
+      "name": "TODO (num_handpumps)",
       "data_type": "float",
       "description": ""
     },
@@ -416,7 +416,7 @@
     },
     {
       "slug": "num_diesel",
-      "name": "num_diesel(name=='')",
+      "name": "Number",
       "data_type": "float",
       "description": ""
     },
@@ -470,7 +470,7 @@
     },
     {
       "slug": "girl_boy_ratio_secondary_school",
-      "name": "girl_boy_ratio_secondary_school(name=='')",
+      "name": "Ratio of girls to boys in senior secondary schools ",
       "data_type": "float",
       "description": ""
     },
@@ -482,13 +482,13 @@
     },
     {
       "slug": "num_electric",
-      "name": "num_electric(name=='')",
+      "name": "Number",
       "data_type": "float",
       "description": ""
     },
     {
       "slug": "num_primary_js_ss_level",
-      "name": "num_primary_js_ss_level(name=='')",
+      "name": "Primary, junior and senior secondary",
       "data_type": "float",
       "description": ""
     },
@@ -524,7 +524,7 @@
     },
     {
       "slug": "num_level_2_health_facilities",
-      "name": "num_level_2_health_facilities(name=='')",
+      "name": "Primary health clinics",
       "data_type": "float",
       "description": ""
     },
@@ -548,7 +548,7 @@
     },
     {
       "slug": "num_preprimary_primary_level",
-      "name": "num_preprimary_primary_level(name=='')",
+      "name": "Preprimary and primary",
       "data_type": "float",
       "description": ""
     },
@@ -590,7 +590,7 @@
     },
     {
       "slug": "num_health_facilities_c_sections",
-      "name": "num_health_facilities_c_sections(name=='')",
+      "name": "Facilities that perform Caesarean sections",
       "data_type": "float",
       "description": ""
     },
@@ -626,7 +626,7 @@
     },
     {
       "slug": "student_teacher_ratio_lga",
-      "name": "student_teacher_ratio_lga(name=='')",
+      "name": "Pupil to teacher ratio",
       "data_type": "float",
       "description": ""
     },
@@ -644,7 +644,7 @@
     },
     {
       "slug": "num_level_3_health_facilities",
-      "name": "num_level_3_health_facilities(name=='')",
+      "name": "Primary health centres",
       "data_type": "float",
       "description": ""
     },
@@ -680,7 +680,7 @@
     },
     {
       "slug": "proportion_children_u5_sleeping_under_itns",
-      "name": "Proportion of children under 5 sleeping under insecticide-treated bed nets",
+      "name": "Percentage of children under five sleeping under insecticide-treated bednets ",
       "data_type": "percent",
       "description": "Percentage of children under 5  who slept under insecticide-treated bednets the night before the survey"
     },
@@ -692,7 +692,7 @@
     },
     {
       "slug": "prevalence_of_underweight_children_u5",
-      "name": "Prevalence of underweight (weight-for-age) in children under 5 years (-2SD from mean Z-score) ",
+      "name": "Percentage of children under five who are underweight (weight-for-age)",
       "data_type": "percent",
       "description": "Percentage of children under five whose weight-for-age is below minus two standard deviations (-2 SD) from the median of the reference population (all children under 5)"
     },
@@ -722,7 +722,7 @@
     },
     {
       "slug": "mortality_rate_maternal",
-      "name": "Variable not found: mortality_rate_maternal",
+      "name": "Maternal mortality",
       "data_type": "error",
       "description": ""
     },
@@ -758,7 +758,7 @@
     },
     {
       "slug": "num_level_other_health_facilities",
-      "name": "num_level_other_health_facilities(name=='')",
+      "name": "Other health facillities",
       "data_type": "float",
       "description": ""
     },
@@ -806,7 +806,7 @@
     },
     {
       "slug": "percentage_solar_functional",
-      "name": "percentage_solar_functional(name=='')",
+      "name": "Percentage functional",
       "data_type": "percent",
       "description": ""
     },
@@ -824,7 +824,7 @@
     },
     {
       "slug": "mortality_rate_children_u5",
-      "name": "Under 5 Child Mortality Rate ",
+      "name": "Under five mortality rate (per 1,000 live births)",
       "data_type": "float",
       "description": "Proportion of children out of 1000 live births who would die before reach 5 years of age "
     },
@@ -878,7 +878,7 @@
     },
     {
       "slug": "girl_boy_ratio_js",
-      "name": "girl_boy_ratio_js(name=='')",
+      "name": "Ratio of girls to boys in junior secondary schools ",
       "data_type": "float",
       "description": ""
     },
@@ -890,7 +890,7 @@
     },
     {
       "slug": "num_improved_water_points",
-      "name": "num_improved_water_points(name=='')",
+      "name": "Number of improved water points",
       "data_type": "float",
       "description": ""
     },
@@ -938,13 +938,13 @@
     },
     {
       "slug": "num_level_4_health_facilities",
-      "name": "num_level_4_health_facilities(name=='')",
+      "name": "Comprehensive health centres & hospitals",
       "data_type": "float",
       "description": ""
     },
     {
       "slug": "immunization_rate_measles",
-      "name": "Immunization rate (measles)",
+      "name": "Infant mortality rate (per 1,000 live births) ",
       "data_type": "percent",
       "description": "Percentage of children aged 12-23 months who received measles immunization any time before the survey"
     },
@@ -974,7 +974,7 @@
     },
     {
       "slug": "num_other_level",
-      "name": "num_other_level(name=='')",
+      "name": "Other schools",
       "data_type": "float",
       "description": ""
     },
@@ -1010,7 +1010,7 @@
     },
     {
       "slug": "net_enrollment_ratio_primary_education",
-      "name": "Net enrollment ratio for primary education[LGA]",
+      "name": "Net enrollment rate for primary education",
       "data_type": "percent",
       "description": "Number of children of primary school  \ngoing age who are enrolled in it, as a percentage of the official primary school going age population respectively"
     },
@@ -1046,7 +1046,7 @@
     },
     {
       "slug": "gross_enrollment_rate_primary",
-      "name": "gross_enrollment_rate_primary(name=='')",
+      "name": "Gross enrollment rate in primary education ",
       "data_type": "percent",
       "description": ""
     },
@@ -1106,7 +1106,7 @@
     },
     {
       "slug": "girl_boy_ratio_primary",
-      "name": "girl_boy_ratio_primary(name=='')",
+      "name": "Ratio of girls to boys in primary schools ",
       "data_type": "float",
       "description": ""
     },
@@ -1118,19 +1118,19 @@
     },
     {
       "slug": "num_taps",
-      "name": "num_taps(name=='')",
+      "name": "- Taps",
       "data_type": "float",
       "description": ""
     },
     {
       "slug": "prevalence_of_hiv",
-      "name": "prevalence_of_hiv(name=='')",
+      "name": "HIV Prevalence ",
       "data_type": "percent",
       "description": ""
     },
     {
       "slug": "num_preprimary_level",
-      "name": "num_preprimary_level(name=='')",
+      "name": "Preprimary",
       "data_type": "float",
       "description": ""
     },
@@ -1202,7 +1202,7 @@
     },
     {
       "slug": "num_ss_level",
-      "name": "num_ss_level(name=='')",
+      "name": "Senior secondary",
       "data_type": "float",
       "description": ""
     },
@@ -1250,13 +1250,13 @@
     },
     {
       "slug": "proportion_lift_type_diesel",
-      "name": "Variable not found: proportion_lift_type_diesel",
+      "name": "Tuberculosis treatment success rate ",
       "data_type": "error",
       "description": ""
     },
     {
       "slug": "prevalence_of_stunting_children_u5",
-      "name": "Prevalence of stunting (height-for-age) in children under 5 years (-2SD from mean Z-score) ",
+      "name": "Percentage of children under five with stunting (height-for-age) ",
       "data_type": "percent",
       "description": "Percentage of children under five whose height-for-age is below minus two standard deviations (-2 SD) from the median of the reference population "
     },
@@ -1304,13 +1304,13 @@
     },
     {
       "slug": "num_primary_js_level",
-      "name": "num_primary_js_level(name=='')",
+      "name": "Primary and junior secondary",
       "data_type": "float",
       "description": ""
     },
     {
       "slug": "percentage_pregnant_women_tested_for_hiv_during_pregnancy",
-      "name": "Percentage of pregnant women tested for HIV during their pregnancy ",
+      "name": "Percentage of pregnant women tested for HIV ",
       "data_type": "percent",
       "description": "Percentage of women between 15-49 years who were preganant in the last 5 years who got tested for HIV as a part of antenatal visit"
     },
@@ -1334,19 +1334,19 @@
     },
     {
       "slug": "mortality_rate_infant",
-      "name": "Infant Mortality Rate ",
+      "name": "Infant Mortality Rate (per 1,000 live births)",
       "data_type": "float",
       "description": "Proportion of children out of 1000 live births who would die before reach 1 years of age "
     },
     {
       "slug": "secretary_name",
-      "name": "secretary_name(name=='')",
+      "name": "LGA Secretary",
       "data_type": "string",
       "description": ""
     },
     {
       "slug": "num_solar",
-      "name": "num_solar(name=='')",
+      "name": "Number",
       "data_type": "float",
       "description": ""
     },
@@ -1400,7 +1400,7 @@
     },
     {
       "slug": "num_js_ss_level",
-      "name": "num_js_ss_level(name=='')",
+      "name": "Junior and senior secondary",
       "data_type": "float",
       "description": ""
     },
@@ -1412,7 +1412,7 @@
     },
     {
       "slug": "percentage_of_individuals_tested_for_hiv_ever",
-      "name": "Percentage of Individuals that have been tested for HIV ever ",
+      "name": "Percentage of men and women ever tested for HIV",
       "data_type": "percent",
       "description": "Percentage of women aged 15-49 years old who have ever been tested for HIV"
     },
@@ -1430,7 +1430,7 @@
     },
     {
       "slug": "proportion_teachers_nce",
-      "name": "proportion_teachers_nce(name=='')",
+      "name": "Percentage of teachers with NCE qualification",
       "data_type": "percent",
       "description": ""
     },
@@ -1460,7 +1460,7 @@
     },
     {
       "slug": "pop_population",
-      "name": "Population",
+      "name": "Population (2006)",
       "data_type": "float",
       "description": ""
     },
@@ -1478,13 +1478,13 @@
     },
     {
       "slug": "immunization_rate_dpt3",
-      "name": "Immunization rate (DPT 3) ",
+      "name": "DPT 3 immunization rate ",
       "data_type": "percent",
       "description": "Percentage of children aged 12-23 months who received DPT3 immunization any time before the survey"
     },
     {
       "slug": "percentage_functional_improved",
-      "name": "percentage_functional_improved(name=='')",
+      "name": "Percentage of improved water points that are functional",
       "data_type": "percent",
       "description": ""
     },
@@ -1556,7 +1556,7 @@
     },
     {
       "slug": "prevalence_of_wasting_children_u5",
-      "name": "Prevalence of wasting (weight-for-height) in children under 5 years (-2SD from the mean Z-scores) ",
+      "name": "Percentage of children under five with wasting (weight-for-height) ",
       "data_type": "percent",
       "description": "Percentage of children whose weight-for-height is below minus two standard deviations (-2 SD) from the median of the reference population "
     },
