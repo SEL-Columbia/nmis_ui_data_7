@@ -122,7 +122,7 @@
     },
     {
       "slug": "num_skilled_health_providers_per_1000",
-      "name": "num_skilled_health_providers_per_1000(name=='')",
+      "name": "Skilled health providers per 1,000 population",
       "data_type": "float",
       "description": ""
     },
@@ -272,7 +272,7 @@
     },
     {
       "slug": "num_chews_per_1000",
-      "name": "num_chews_per_1000(name=='')",
+      "name": "CHEWs per 1,000 population",
       "data_type": "float",
       "description": ""
     },
@@ -338,7 +338,7 @@
     },
     {
       "slug": "num_level_1_health_facilities",
-      "name": "num_level_1_health_facilities(name=='')",
+      "name": "Health posts and dispensaries",
       "data_type": "float",
       "description": ""
     },
@@ -524,7 +524,7 @@
     },
     {
       "slug": "num_level_2_health_facilities",
-      "name": "num_level_2_health_facilities(name=='')",
+      "name": "Primary health clinics",
       "data_type": "float",
       "description": ""
     },
@@ -590,7 +590,7 @@
     },
     {
       "slug": "num_health_facilities_c_sections",
-      "name": "num_health_facilities_c_sections(name=='')",
+      "name": "Facilities that perform Caesarean sections",
       "data_type": "float",
       "description": ""
     },
@@ -644,7 +644,7 @@
     },
     {
       "slug": "num_level_3_health_facilities",
-      "name": "num_level_3_health_facilities(name=='')",
+      "name": "Primary health centres",
       "data_type": "float",
       "description": ""
     },
@@ -758,7 +758,7 @@
     },
     {
       "slug": "num_level_other_health_facilities",
-      "name": "num_level_other_health_facilities(name=='')",
+      "name": "Other health facillities",
       "data_type": "float",
       "description": ""
     },
@@ -938,7 +938,7 @@
     },
     {
       "slug": "num_level_4_health_facilities",
-      "name": "num_level_4_health_facilities(name=='')",
+      "name": "Comprehensive health centres & hospitals",
       "data_type": "float",
       "description": ""
     },
