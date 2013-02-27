@@ -14,7 +14,7 @@
     },
     {
       "slug": "proportion_health_facilities_hiv_testing",
-      "name": "proportion_health_facilities_hiv_testing(name=='')",
+      "name": "Percentage of facilities that offer HIV testing",
       "data_type": "percent",
       "description": ""
     },
@@ -32,13 +32,13 @@
     },
     {
       "slug": "num_nurses",
-      "name": "num_nurses(name=='')",
+      "name": "Total number of nurses in the LGA",
       "data_type": "float",
       "description": ""
     },
     {
       "slug": "proportion_at_least_1_sba",
-      "name": "Proportion of facilities with at least one skilled birth attendant",
+      "name": "Percentage of facilities with at least one skilled birth attendant",
       "data_type": "percent",
       "description": ""
     },
@@ -146,7 +146,7 @@
     },
     {
       "slug": "proportion_health_facilities_inpatient_care",
-      "name": "proportion_health_facilities_inpatient_care(name=='')",
+      "name": "Percentage of facilities that offer inpatient care",
       "data_type": "percent",
       "description": ""
     },
@@ -188,7 +188,7 @@
     },
     {
       "slug": "proportion_health_facilities_open_24_7",
-      "name": "proportion_health_facilities_open_24_7(name=='')",
+      "name": "Percentage of facilities that offer care 24 hours a day, 7 days a week",
       "data_type": "percent",
       "description": ""
     },
@@ -218,7 +218,7 @@
     },
     {
       "slug": "proportion_access_functional_emergency_transport",
-      "name": "Proportion of facilities that have access to functional emergency transport",
+      "name": "Percentage of facilities with access to emergency transport services",
       "data_type": "percent",
       "description": ""
     },
@@ -380,7 +380,7 @@
     },
     {
       "slug": "num_lab_techs",
-      "name": "num_lab_techs(name=='')",
+      "name": "Total number of laboratory technicians in the LGA",
       "data_type": "float",
       "description": ""
     },
@@ -440,7 +440,7 @@
     },
     {
       "slug": "proportion_functional_sanitation",
-      "name": "Proportion of facilities that have access to improved sanitation",
+      "name": "Percentage of facilities with functioning improved sanitation",
       "data_type": "percent",
       "description": ""
     },
@@ -452,7 +452,7 @@
     },
     {
       "slug": "proportion_health_facilities_tb_testing",
-      "name": "proportion_health_facilities_tb_testing(name=='')",
+      "name": "Percentage of facilities that offer TB testing",
       "data_type": "percent",
       "description": ""
     },
@@ -476,7 +476,7 @@
     },
     {
       "slug": "proportion_offer_bednets",
-      "name": "Proportion of facilities that offer bednets",
+      "name": "Percentage of facilities that provide bednets",
       "data_type": "percent",
       "description": ""
     },
@@ -572,7 +572,7 @@
     },
     {
       "slug": "proportion_delivery_24_7",
-      "name": "Proportion of facilities that offer  delivery services 24/7 ",
+      "name": "Percentage of facilities that offer delivery services 24 hours a day, 7 days a week",
       "data_type": "percent",
       "description": ""
     },
@@ -596,7 +596,7 @@
     },
     {
       "slug": "proportion_malaria_prevention_pregnancy",
-      "name": "Proportion of facilities that offer prevention of malaria during pregnancy",
+      "name": "Percentage of facilities that offer malaria prophylaxis during pregnancy",
       "data_type": "percent",
       "description": ""
     },
@@ -746,7 +746,7 @@
     },
     {
       "slug": "proportion_health_facilities_tb_treatment",
-      "name": "proportion_health_facilities_tb_treatment(name=='')",
+      "name": "Percentage of facilities that offer TB testing",
       "data_type": "percent",
       "description": ""
     },
@@ -830,7 +830,7 @@
     },
     {
       "slug": "proportion_health_facilities_art_treatment",
-      "name": "proportion_health_facilities_art_treatment(name=='')",
+      "name": "Percentage of facilities that offer ART treatment",
       "data_type": "percent",
       "description": ""
     },
@@ -896,7 +896,7 @@
     },
     {
       "slug": "proportion_deworming",
-      "name": "Proportion of facilities that offer  deworming",
+      "name": "Percentage of facilities that offer  deworming",
       "data_type": "percent",
       "description": ""
     },
@@ -962,7 +962,7 @@
     },
     {
       "slug": "num_chews",
-      "name": "num_chews(name=='')",
+      "name": "Total number of CHEWs (Jr. and Sr.) in the LGA",
       "data_type": "float",
       "description": ""
     },
@@ -986,7 +986,7 @@
     },
     {
       "slug": "proportion_stockout_essential_meds",
-      "name": "Proportion of facilities that had a stock out of essential medications for at least one week during the previous month",
+      "name": "Percentage of facilities that experienced a stock-out of essential medications in the past month",
       "data_type": "percent",
       "description": ""
     },
@@ -1016,7 +1016,7 @@
     },
     {
       "slug": "proportion_delivery_no_user_fees",
-      "name": "Proportion of facilities that provide labor and delivery services free of charge (no user fees)",
+      "name": "Percentage of facilities that do not charge any fees for maternal health servi",
       "data_type": "percent",
       "description": ""
     },
@@ -1028,7 +1028,7 @@
     },
     {
       "slug": "proportion_growth_monitoring",
-      "name": "Proportion of facilities that offer growth monitoring",
+      "name": "Percentage of facilities that offer growth monitoring",
       "data_type": "percent",
       "description": ""
     },
@@ -1040,7 +1040,7 @@
     },
     {
       "slug": "proportion_no_user_fees_malaria",
-      "name": "Proportion of facilities that offer  malaria services free of charge (no user fees)",
+      "name": "Percentage of facilities that do not charge fees for malaria-related services",
       "data_type": "percent",
       "description": ""
     },
@@ -1070,7 +1070,7 @@
     },
     {
       "slug": "proportion_antenatal",
-      "name": "Proportion of facilities that offer antenatal care services",
+      "name": "Percentage of facilities that offer antenatal care",
       "data_type": "percent",
       "description": ""
     },
@@ -1184,7 +1184,7 @@
     },
     {
       "slug": "num_health_facilities",
-      "name": "num_health_facilities(name=='')",
+      "name": "Total number of facilities",
       "data_type": "float",
       "description": ""
     },
@@ -1196,7 +1196,7 @@
     },
     {
       "slug": "proportion_health_facilities_med_waste_separated",
-      "name": "proportion_health_facilities_med_waste_separated(name=='')",
+      "name": "Percentage of facilities that separate medical waste from other forms of waste",
       "data_type": "percent",
       "description": ""
     },
@@ -1214,19 +1214,19 @@
     },
     {
       "slug": "proportion_any_power_access",
-      "name": "Proportion of facilities that have access to any source of power",
+      "name": "Percentage of facilities with access to some form of power source",
       "data_type": "percent",
       "description": ""
     },
     {
       "slug": "proportion_family_planning",
-      "name": "Proportion of facilities that offer family planning services",
+      "name": "Percentage of facilities that offer family planning services",
       "data_type": "percent",
       "description": ""
     },
     {
       "slug": "proportion_improved_water_source",
-      "name": "proportion_improved_water_source(name=='')",
+      "name": "Percentage of facilities with access to an improved water source",
       "data_type": "percent",
       "description": ""
     },
@@ -1238,7 +1238,7 @@
     },
     {
       "slug": "proportion_malaria_testing",
-      "name": "Proportion of facilities that offer  malaria testing ",
+      "name": "Percentage of facilities that offer malaria testing (RDT or microscopy)",
       "data_type": "percent",
       "description": ""
     },
@@ -1262,7 +1262,7 @@
     },
     {
       "slug": "proportion_health_facilities_routine_immunization",
-      "name": "Proportion of facilities that offer routine immunization",
+      "name": "Percentage of facilities that offer routine immunization",
       "data_type": "percent",
       "description": ""
     },
@@ -1274,7 +1274,7 @@
     },
     {
       "slug": "proportion_act_treatment_for_malaria",
-      "name": "Proportion of facilities that offer ACT treatment for malaria",
+      "name": "Percentage of facilities that offer ACT-based treatment for malaria",
       "data_type": "percent",
       "description": ""
     },
@@ -1358,7 +1358,7 @@
     },
     {
       "slug": "num_nursemidwives_midwives",
-      "name": "num_nursemidwives_midwives(name=='')",
+      "name": "Total number of midwives and nurse-midwives in the LGA",
       "data_type": "float",
       "description": ""
     },
@@ -1376,13 +1376,13 @@
     },
     {
       "slug": "proportion_no_user_fees_child_health",
-      "name": "Proportion of facilities that offer child health services free of charge (no user fees)",
+      "name": "Percentage of facilities that do not charge any fees for child health services",
       "data_type": "percent",
       "description": ""
     },
     {
       "slug": "proportion_staff_paid",
-      "name": "Proportion of facilities at which staff were paid in the previous period",
+      "name": "Percentage of facilities where all salaried staff were paid during the last pay period",
       "data_type": "percent",
       "description": ""
     },
@@ -1424,7 +1424,7 @@
     },
     {
       "slug": "proportion_mobile_coverage",
-      "name": "Proportion of facilities that have mobile phone coverage",
+      "name": "Percentage of facilities with mobile phone coverage somewhere on the premises",
       "data_type": "percent",
       "description": ""
     },
@@ -1454,7 +1454,7 @@
     },
     {
       "slug": "num_doctors",
-      "name": "num_doctors(name=='')",
+      "name": "Total number of doctors in the LGA",
       "data_type": "float",
       "description": ""
     },
