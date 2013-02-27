@@ -458,7 +458,7 @@
     },
     {
       "slug": "num_schools",
-      "name": "num_schools(name=='')",
+      "name": "Total number of schools",
       "data_type": "float",
       "description": ""
     },
