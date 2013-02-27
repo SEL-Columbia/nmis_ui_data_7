@@ -1,1 +1,23 @@
-{"map_layers": "map_layers.json", "groupings": {"local": "LGA", "group": "State"}, "id": "nmis_ui_data_2ef92c15", "defaults": {"presentation/sectors": ["presentation/sectors.json"], "geo/districts": ["geo/districts.json"], "presentation/facilities": ["presentation/facilities.json"], "variables/variables": ["variables/variables.json"]}, "title": "Nigeria MDG Information System (NMIS)"}
+{
+    "defaults": {
+        "geo/districts": [
+            "geo/districts.json"
+        ], 
+        "presentation/facilities": [
+            "presentation/facilities.json"
+        ], 
+        "presentation/sectors": [
+            "presentation/sectors.json"
+        ], 
+        "variables/variables": [
+            "variables/variables.json"
+        ]
+    }, 
+    "groupings": {
+        "group": "State", 
+        "local": "LGA"
+    }, 
+    "id": "nmis_ui_data_2ef92c15", 
+    "map_layers": "map_layers.json", 
+    "title": "Nigeria MDG Information System (NMIS)"
+}
