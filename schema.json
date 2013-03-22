@@ -11,6 +11,9 @@
         ], 
         "variables/variables": [
             "variables/variables.json"
+        ],
+        "presentation/summary_sectors": [
+            "presentation/summary_sectors.json"
         ]
     }, 
     "groupings": {
