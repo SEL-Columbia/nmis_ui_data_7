@@ -160,6 +160,7 @@
     "water": [
       {
         "name": "Water Point Type",
+        "context": "wp_type",
         "rows": [
           "num_improved_water_points",
           "num_overhead_tanks",
@@ -171,6 +172,7 @@
       },
       {
         "name": "Functionality",
+        "context": "functionality",
         "rows": [
           "percentage_functional_improved",
           "percentage_functional_taps",
@@ -179,6 +181,7 @@
       },
       {
         "name": "Lift Mechanism Analysis",
+        "context": "lm_analysis",
         "rows": [
           {
             "name": "Diesel",

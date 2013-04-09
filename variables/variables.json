@@ -244,6 +244,11 @@
       "slug": "percentage_functional_handpumps",
       "name": "Percentage functional",
       "data_type": "percent",
+      "context": {
+        "functionality": {
+          "name": "Percentage of hand pumps that are functional"
+        }
+      },
       "description": ""
     },
     {
@@ -404,9 +409,17 @@
     },
     {
       "slug": "num_handpumps",
-      "name": "TODO (num_handpumps)",
+      "name": "Number of Handpumps",
       "data_type": "float",
-      "description": ""
+      "description": "",
+      "context": {
+        "wp_type": {
+          "name": "- Hand pumps"
+        },
+        "lm_analysis": {
+          "name": "Number"
+        }
+      }
     },
     {
       "slug": "proportion_classrooms_need_minor_repair_primary",
