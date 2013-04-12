@@ -218,6 +218,7 @@
     "education": [
       {
         "name": "Facilities",
+        "context": "edu_facilities",
         "rows": [
           "num_primary_schools",
           "num_junior_secondary_schools",
@@ -228,10 +229,10 @@
       {
         "name": "Access",
         "rows": [
-          "N/A",
-          "N/A",
-          "N/A",
-          "N/A",
+          "primary_nir_boy",
+          "primary_nir_girl",
+          "junior_nir_boy",
+          "junior_nir_girl",
           "proportion_schools_1kmplus_catchment_primary",
           "proportion_schools_1kmplus_catchment_juniorsec",
           "proportion_schools_1kmplus_ss",
@@ -358,7 +359,7 @@
       {
         "name": "Efficiency (flow rates)",
         "rows": [
-          "N/A",
+          "drop_out_rate",
           "transition_rate_primary_to_js1_male",
           "transition_rate_primary_to_js1_female",
           "repetition_rate_primary_male",

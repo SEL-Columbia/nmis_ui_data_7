@@ -1375,6 +1375,41 @@
       "slug": "num_primary_schools",
       "name": "Number of Primary Schools",
       "data_type": "float",
+      "description": "",
+      "context":{
+        "edu_facilities": {
+          "name": "Number of primary schools (preprimary, primary, preprimary/primary, primary/js)" 
+        }
+      }
+    },
+    {
+      "slug": "primary_nir_boy",
+      "name": "Primary net intake rate (NIR) for boys",
+      "data_type": "float",
+      "description": ""
+    },
+    {
+      "slug": "primary_nir_girl",
+      "name": "Primary net intake rate (NIR) for girls",
+      "data_type": "float",
+      "description": ""
+    },
+    {
+      "slug": "junior_nir_boy",
+      "name": "Junior secondary net intake rate (NIR) for boys",
+      "data_type": "float",
+      "description": ""
+    },
+    {
+      "slug": "junior_nir_girl",
+      "name": "Junior Secondary net intake rate (NIR) for girls",
+      "data_type": "float",
+      "description": ""
+    },
+    {
+      "slug": "drop_out_rate",
+      "name": "Drop Out Rate",
+      "data_type": "float",
       "description": ""
     },
     {
