@@ -608,7 +608,12 @@
       "slug": "num_health_facilities_c_sections",
       "name": "Facilities that perform Caesarean sections",
       "data_type": "float",
-      "description": ""
+      "description": "",
+      "context": {
+        "maternalhealth": {
+          "name": "Number of facilities that perform Caesarean sections"
+        }
+      }
     },
     {
       "slug": "proportion_malaria_prevention_pregnancy",
