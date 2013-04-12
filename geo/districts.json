@@ -16,7 +16,7 @@
         }, 
         {
             "_lga_id": 2, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/fct_abaji", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -184,7 +184,7 @@
         }, 
         {
             "_lga_id": 14, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/ogun_ado_odo_ota", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -226,7 +226,7 @@
         }, 
         {
             "_lga_id": 17, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/ebonyi_afikpo_south", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -268,7 +268,7 @@
         }, 
         {
             "_lga_id": 20, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/niger_agwara", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -352,7 +352,7 @@
         }, 
         {
             "_lga_id": 26, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kogi_ajaokuta", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -366,7 +366,7 @@
         }, 
         {
             "_lga_id": 27, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/lagos_ajeromi_ifelodun", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -422,7 +422,7 @@
         }, 
         {
             "_lga_id": 31, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/gombe_akko", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -436,7 +436,7 @@
         }, 
         {
             "_lga_id": 32, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/edo_akoko_edo", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -450,7 +450,7 @@
         }, 
         {
             "_lga_id": 33, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/ondo_akoko_north_east", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -464,7 +464,7 @@
         }, 
         {
             "_lga_id": 34, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/ondo_akoko_north_west", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -520,7 +520,7 @@
         }, 
         {
             "_lga_id": 38, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/rivers_akuku_toru", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -534,7 +534,7 @@
         }, 
         {
             "_lga_id": 39, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/ondo_akure_north", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -562,7 +562,7 @@
         }, 
         {
             "_lga_id": 41, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/nasarawa_akwanga", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -618,7 +618,7 @@
         }, 
         {
             "_lga_id": 45, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/bauchi_alkaleri", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -646,7 +646,7 @@
         }, 
         {
             "_lga_id": 47, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/anambra_anambra_east", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -660,7 +660,7 @@
         }, 
         {
             "_lga_id": 48, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/anambra_anambra_west", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -688,7 +688,7 @@
         }, 
         {
             "_lga_id": 50, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/rivers_andoni", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -702,7 +702,7 @@
         }, 
         {
             "_lga_id": 51, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/enugu_aninri", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -744,7 +744,7 @@
         }, 
         {
             "_lga_id": 54, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/zamfara_anka", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -786,7 +786,7 @@
         }, 
         {
             "_lga_id": 57, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/lagos_apapa", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -800,7 +800,7 @@
         }, 
         {
             "_lga_id": 58, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/benue_ado", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -828,7 +828,7 @@
         }, 
         {
             "_lga_id": 60, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kebbi_arewa_dandi", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -856,7 +856,7 @@
         }, 
         {
             "_lga_id": 62, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/abia_arochukwu", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -870,7 +870,7 @@
         }, 
         {
             "_lga_id": 63, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kwara_asa", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -884,7 +884,7 @@
         }, 
         {
             "_lga_id": 64, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/rivers_asari_toru", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -912,7 +912,7 @@
         }, 
         {
             "_lga_id": 66, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/osun_atakunmosa_east", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -968,7 +968,7 @@
         }, 
         {
             "_lga_id": 70, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kebbi_augie", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -996,7 +996,7 @@
         }, 
         {
             "_lga_id": 72, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/nasarawa_awe", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -1024,7 +1024,7 @@
         }, 
         {
             "_lga_id": 74, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/anambra_awka_north", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -1052,7 +1052,7 @@
         }, 
         {
             "_lga_id": 76, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/anambra_ayamelum", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -1066,7 +1066,7 @@
         }, 
         {
             "_lga_id": 77, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/osun_ayedaade", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -1108,7 +1108,7 @@
         }, 
         {
             "_lga_id": 80, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/lagos_badagry", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -1136,7 +1136,7 @@
         }, 
         {
             "_lga_id": 82, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kano_bagwai", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -1192,7 +1192,7 @@
         }, 
         {
             "_lga_id": 86, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/zamfara_bakura", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -1206,7 +1206,7 @@
         }, 
         {
             "_lga_id": 87, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/gombe_balanga", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -1220,7 +1220,7 @@
         }, 
         {
             "_lga_id": 88, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/taraba_bali", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -1262,7 +1262,7 @@
         }, 
         {
             "_lga_id": 91, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/plateau_barkin_ladi", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -1290,7 +1290,7 @@
         }, 
         {
             "_lga_id": 93, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kogi_bassa", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -1304,7 +1304,7 @@
         }, 
         {
             "_lga_id": 94, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/plateau_bassa", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -1500,7 +1500,7 @@
         }, 
         {
             "_lga_id": 108, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/sokoto_binji", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -1514,7 +1514,7 @@
         }, 
         {
             "_lga_id": 109, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/jigawa_biriniwa", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -1528,7 +1528,7 @@
         }, 
         {
             "_lga_id": 110, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kaduna_birnin_gwari", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -1570,7 +1570,7 @@
         }, 
         {
             "_lga_id": 113, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/zamfara_birnin_magaji", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -1626,7 +1626,7 @@
         }, 
         {
             "_lga_id": 117, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/cross_river_boki", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -1654,7 +1654,7 @@
         }, 
         {
             "_lga_id": 119, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/delta_bomadi", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -1738,7 +1738,7 @@
         }, 
         {
             "_lga_id": 125, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/bayelsa_brass", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -1766,7 +1766,7 @@
         }, 
         {
             "_lga_id": 127, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/zamfara_bukkuyum", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -1808,7 +1808,7 @@
         }, 
         {
             "_lga_id": 130, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kano_bunkure", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -1822,7 +1822,7 @@
         }, 
         {
             "_lga_id": 131, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kebbi_bunza", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -1836,7 +1836,7 @@
         }, 
         {
             "_lga_id": 132, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/delta_burutu", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -1850,7 +1850,7 @@
         }, 
         {
             "_lga_id": 133, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/fct_bwari", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -1920,7 +1920,7 @@
         }, 
         {
             "_lga_id": 138, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/borno_chibok", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -2004,7 +2004,7 @@
         }, 
         {
             "_lga_id": 144, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/borno_damboa", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -2158,7 +2158,7 @@
         }, 
         {
             "_lga_id": 155, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/rivers_degema", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -2200,7 +2200,7 @@
         }, 
         {
             "_lga_id": 158, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/borno_dikwa", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -2256,7 +2256,7 @@
         }, 
         {
             "_lga_id": 162, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/gombe_dukku", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -2270,7 +2270,7 @@
         }, 
         {
             "_lga_id": 163, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/anambra_dunukofia", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -2354,7 +2354,7 @@
         }, 
         {
             "_lga_id": 169, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/niger_edati", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -2382,7 +2382,7 @@
         }, 
         {
             "_lga_id": 171, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/osun_ede_south", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -2452,7 +2452,7 @@
         }, 
         {
             "_lga_id": 176, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/osun_ife_south", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -2466,7 +2466,7 @@
         }, 
         {
             "_lga_id": 177, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/ekiti_efon", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -2480,7 +2480,7 @@
         }, 
         {
             "_lga_id": 178, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/ogun_egbado_north", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -2578,7 +2578,7 @@
         }, 
         {
             "_lga_id": 185, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/bayelsa_ekeremor", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -2606,7 +2606,7 @@
         }, 
         {
             "_lga_id": 187, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kwara_ekiti", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -2620,7 +2620,7 @@
         }, 
         {
             "_lga_id": 188, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/ekiti_ekiti_east", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -2634,7 +2634,7 @@
         }, 
         {
             "_lga_id": 189, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/ekiti_ekiti_south_west", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -2648,7 +2648,7 @@
         }, 
         {
             "_lga_id": 190, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/ekiti_ekiti_west", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -2760,7 +2760,7 @@
         }, 
         {
             "_lga_id": 198, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/lagos_epe", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -2802,7 +2802,7 @@
         }, 
         {
             "_lga_id": 201, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/edo_esan_south_east", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -2816,7 +2816,7 @@
         }, 
         {
             "_lga_id": 202, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/edo_esan_west", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -2830,7 +2830,7 @@
         }, 
         {
             "_lga_id": 203, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/ondo_ese_odo", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -2844,7 +2844,7 @@
         }, 
         {
             "_lga_id": 204, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/akwa_ibom_esit_eket", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -2858,7 +2858,7 @@
         }, 
         {
             "_lga_id": 205, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/akwa_ibom_essien_udim", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -2900,7 +2900,7 @@
         }, 
         {
             "_lga_id": 208, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/delta_ethiope_west", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -2942,7 +2942,7 @@
         }, 
         {
             "_lga_id": 211, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/lagos_eti_osa", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -2970,7 +2970,7 @@
         }, 
         {
             "_lga_id": 213, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/edo_etsako_east", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -2984,7 +2984,7 @@
         }, 
         {
             "_lga_id": 214, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/edo_etsako_west", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -3012,7 +3012,7 @@
         }, 
         {
             "_lga_id": 216, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/ogun_ewekoro", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -3026,7 +3026,7 @@
         }, 
         {
             "_lga_id": 217, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/enugu_ezeagu", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -3068,7 +3068,7 @@
         }, 
         {
             "_lga_id": 220, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/ebonyi_ezza_south", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -3138,7 +3138,7 @@
         }, 
         {
             "_lga_id": 225, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/adamawa_fufore", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -3166,7 +3166,7 @@
         }, 
         {
             "_lga_id": 227, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/yobe_fune", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -3194,7 +3194,7 @@
         }, 
         {
             "_lga_id": 229, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kano_gabasawa", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -3208,7 +3208,7 @@
         }, 
         {
             "_lga_id": 230, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/sokoto_gada", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -3250,7 +3250,7 @@
         }, 
         {
             "_lga_id": 233, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/bauchi_ganjuwa", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -3306,7 +3306,7 @@
         }, 
         {
             "_lga_id": 237, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kano_garun_mallam", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -3334,7 +3334,7 @@
         }, 
         {
             "_lga_id": 239, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/taraba_gassol", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -3432,7 +3432,7 @@
         }, 
         {
             "_lga_id": 246, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/yobe_geidam", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -3446,7 +3446,7 @@
         }, 
         {
             "_lga_id": 247, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/bauchi_giade", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -3460,7 +3460,7 @@
         }, 
         {
             "_lga_id": 248, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kaduna_giwa", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -3502,7 +3502,7 @@
         }, 
         {
             "_lga_id": 251, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/adamawa_gombi", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -3530,7 +3530,7 @@
         }, 
         {
             "_lga_id": 253, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/adamawa_girei", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -3544,7 +3544,7 @@
         }, 
         {
             "_lga_id": 254, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/borno_gubio", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -3558,7 +3558,7 @@
         }, 
         {
             "_lga_id": 255, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/sokoto_gudu", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -3600,7 +3600,7 @@
         }, 
         {
             "_lga_id": 258, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/benue_guma", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -3656,7 +3656,7 @@
         }, 
         {
             "_lga_id": 262, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/jigawa_guri", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -3684,7 +3684,7 @@
         }, 
         {
             "_lga_id": 264, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/borno_guzamala", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -3796,7 +3796,7 @@
         }, 
         {
             "_lga_id": 272, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/benue_gwer_west", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -3992,7 +3992,7 @@
         }, 
         {
             "_lga_id": 286, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/oyo_ibarapa_north", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -4006,7 +4006,7 @@
         }, 
         {
             "_lga_id": 287, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/lagos_ibeju_lekki", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -4048,7 +4048,7 @@
         }, 
         {
             "_lga_id": 290, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/taraba_ibi", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -4062,7 +4062,7 @@
         }, 
         {
             "_lga_id": 291, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/akwa_ibom_ibiono_ibom", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -4160,7 +4160,7 @@
         }, 
         {
             "_lga_id": 298, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/oyo_ido", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -4202,7 +4202,7 @@
         }, 
         {
             "_lga_id": 301, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/osun_ifedayo", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -4216,7 +4216,7 @@
         }, 
         {
             "_lga_id": 302, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/ondo_ifedore", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -4230,7 +4230,7 @@
         }, 
         {
             "_lga_id": 303, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kwara_ifelodun", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -4286,7 +4286,7 @@
         }, 
         {
             "_lga_id": 307, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kogi_igalamela_odolu", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -4300,7 +4300,7 @@
         }, 
         {
             "_lga_id": 308, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/enugu_igbo_etiti", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -4314,10 +4314,13 @@
         }, 
         {
             "_lga_id": 309, 
-            "active": false, 
+            "active": true, 
             "data_root": "districts/enugu_igbo_eze_north", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [
+                    "data/education.csv", 
+                    "data/health.csv"
+                ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "enugu", 
@@ -4328,10 +4331,13 @@
         }, 
         {
             "_lga_id": 310, 
-            "active": false, 
+            "active": true, 
             "data_root": "districts/enugu_igbo_eze_south", 
             "files": {
-                "data/facilities": "data/facilities.json", 
+                "data/facilities": [
+                    "data/education.csv", 
+                    "data/health.csv"
+                ], 
                 "data/lga_data": "data/lga_data.json"
             }, 
             "group": "enugu", 
@@ -4454,7 +4460,7 @@
         }, 
         {
             "_lga_id": 319, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/ekiti_ijero", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -4510,7 +4516,7 @@
         }, 
         {
             "_lga_id": 323, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kaduna_ikara", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -4538,7 +4544,7 @@
         }, 
         {
             "_lga_id": 325, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/imo_ikeduru", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -4552,7 +4558,7 @@
         }, 
         {
             "_lga_id": 326, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/lagos_ikeja", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -4566,7 +4572,7 @@
         }, 
         {
             "_lga_id": 327, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/ogun_ikenne", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -4594,7 +4600,7 @@
         }, 
         {
             "_lga_id": 329, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/ekiti_ikole", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -4706,7 +4712,7 @@
         }, 
         {
             "_lga_id": 337, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/ebonyi_ikwo", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -4720,7 +4726,7 @@
         }, 
         {
             "_lga_id": 338, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/abia_ikwuano", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -4762,7 +4768,7 @@
         }, 
         {
             "_lga_id": 341, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/ondo_ile_oluji_okeigbo", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -4804,7 +4810,7 @@
         }, 
         {
             "_lga_id": 344, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/sokoto_illela", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -4818,7 +4824,7 @@
         }, 
         {
             "_lga_id": 345, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kwara_ilorin_east", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -4888,7 +4894,7 @@
         }, 
         {
             "_lga_id": 350, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/akwa_ibom_ini", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -4930,7 +4936,7 @@
         }, 
         {
             "_lga_id": 353, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/oyo_irepo", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -5042,7 +5048,7 @@
         }, 
         {
             "_lga_id": 361, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/ebonyi_ishielu", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -5070,7 +5076,7 @@
         }, 
         {
             "_lga_id": 363, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/abia_isiala_ngwa_north", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -5084,7 +5090,7 @@
         }, 
         {
             "_lga_id": 364, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/abia_isiala_ngwa_south", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -5112,7 +5118,7 @@
         }, 
         {
             "_lga_id": 366, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/enugu_isi_uzo", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -5168,7 +5174,7 @@
         }, 
         {
             "_lga_id": 370, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/imo_isu", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -5196,7 +5202,7 @@
         }, 
         {
             "_lga_id": 372, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/bauchi_itas_gadau", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -5252,7 +5258,7 @@
         }, 
         {
             "_lga_id": 376, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/oyo_iwajowa", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -5280,7 +5286,7 @@
         }, 
         {
             "_lga_id": 378, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/ebonyi_izzi", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -5476,7 +5482,7 @@
         }, 
         {
             "_lga_id": 392, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kogi_kabba_bunu", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -5504,7 +5510,7 @@
         }, 
         {
             "_lga_id": 394, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kaduna_kachia", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -5588,7 +5594,7 @@
         }, 
         {
             "_lga_id": 400, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kaduna_kagarko", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -5602,7 +5608,7 @@
         }, 
         {
             "_lga_id": 401, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kwara_kaiama", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -5616,7 +5622,7 @@
         }, 
         {
             "_lga_id": 402, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/katsina_kaita", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -5658,7 +5664,7 @@
         }, 
         {
             "_lga_id": 405, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/borno_kala_balge", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -5672,7 +5678,7 @@
         }, 
         {
             "_lga_id": 406, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kebbi_kalgo", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -5728,7 +5734,7 @@
         }, 
         {
             "_lga_id": 410, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/plateau_kanke", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -5770,7 +5776,7 @@
         }, 
         {
             "_lga_id": 413, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/yobe_karasuwa", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -5798,7 +5804,7 @@
         }, 
         {
             "_lga_id": 415, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/taraba_karin_lamido", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -5840,7 +5846,7 @@
         }, 
         {
             "_lga_id": 418, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/niger_katcha", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -5868,7 +5874,7 @@
         }, 
         {
             "_lga_id": 420, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/benue_katsina_ala", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -5910,7 +5916,7 @@
         }, 
         {
             "_lga_id": 423, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kaduna_kauru", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -5980,7 +5986,7 @@
         }, 
         {
             "_lga_id": 428, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/rivers_khana", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -6008,7 +6014,7 @@
         }, 
         {
             "_lga_id": 430, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/bauchi_kirfi", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -6050,7 +6056,7 @@
         }, 
         {
             "_lga_id": 433, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/jigawa_kiyawa", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -6064,7 +6070,7 @@
         }, 
         {
             "_lga_id": 434, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kogi_kogi", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -6092,7 +6098,7 @@
         }, 
         {
             "_lga_id": 436, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/nasarawa_kokona", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -6106,7 +6112,7 @@
         }, 
         {
             "_lga_id": 437, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/bayelsa_kolokuma", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -6204,7 +6210,7 @@
         }, 
         {
             "_lga_id": 444, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kaduna_kudan", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -6218,7 +6224,7 @@
         }, 
         {
             "_lga_id": 445, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/fct_kuje", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -6274,7 +6280,7 @@
         }, 
         {
             "_lga_id": 449, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kano_kunchi", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -6344,7 +6350,7 @@
         }, 
         {
             "_lga_id": 454, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/benue_kwande", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -6358,7 +6364,7 @@
         }, 
         {
             "_lga_id": 455, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/gombe_kwami", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -6414,7 +6420,7 @@
         }, 
         {
             "_lga_id": 459, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/oyo_lagelu", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -6456,7 +6462,7 @@
         }, 
         {
             "_lga_id": 462, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/plateau_langtang_south", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -6498,7 +6504,7 @@
         }, 
         {
             "_lga_id": 465, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/adamawa_larmurde", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -6526,7 +6532,7 @@
         }, 
         {
             "_lga_id": 467, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/niger_lavun", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -6540,7 +6546,7 @@
         }, 
         {
             "_lga_id": 468, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kaduna_lere", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -6554,7 +6560,7 @@
         }, 
         {
             "_lga_id": 469, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/benue_logo", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -6624,7 +6630,7 @@
         }, 
         {
             "_lga_id": 474, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/borno_mafa", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -6694,7 +6700,7 @@
         }, 
         {
             "_lga_id": 479, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/jigawa_maigatari", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -6708,7 +6714,7 @@
         }, 
         {
             "_lga_id": 480, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/adamawa_maiha", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -6876,7 +6882,7 @@
         }, 
         {
             "_lga_id": 492, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/zamfara_maru", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -6904,7 +6910,7 @@
         }, 
         {
             "_lga_id": 494, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/katsina_mashi", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -6960,7 +6966,7 @@
         }, 
         {
             "_lga_id": 498, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/akwa_ibom_mbo", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -6974,7 +6980,7 @@
         }, 
         {
             "_lga_id": 499, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/adamawa_michika", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -6988,7 +6994,7 @@
         }, 
         {
             "_lga_id": 500, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/jigawa_miga", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -7002,7 +7008,7 @@
         }, 
         {
             "_lga_id": 501, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/plateau_mikang", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -7016,7 +7022,7 @@
         }, 
         {
             "_lga_id": 502, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kano_minjibir", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -7058,7 +7064,7 @@
         }, 
         {
             "_lga_id": 505, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/borno_mobbar", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -7072,7 +7078,7 @@
         }, 
         {
             "_lga_id": 506, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/adamawa_mubi_north", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -7156,7 +7162,7 @@
         }, 
         {
             "_lga_id": 512, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/niger_moya", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -7198,7 +7204,7 @@
         }, 
         {
             "_lga_id": 515, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/katsina_musawa", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -7226,7 +7232,7 @@
         }, 
         {
             "_lga_id": 517, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/gombe_nafada", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -7240,7 +7246,7 @@
         }, 
         {
             "_lga_id": 518, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/yobe_nangere", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -7268,7 +7274,7 @@
         }, 
         {
             "_lga_id": 520, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/nasarawa_nasarawa", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -7282,7 +7288,7 @@
         }, 
         {
             "_lga_id": 521, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/nasarawa_nasarawa_eggon", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -7296,7 +7302,7 @@
         }, 
         {
             "_lga_id": 522, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/delta_ndokwa_east", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -7324,7 +7330,7 @@
         }, 
         {
             "_lga_id": 524, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/bayelsa_nembe", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -7366,7 +7372,7 @@
         }, 
         {
             "_lga_id": 527, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kebbi_ngaski", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -7380,7 +7386,7 @@
         }, 
         {
             "_lga_id": 528, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/imo_ngor_okpala", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -7408,7 +7414,7 @@
         }, 
         {
             "_lga_id": 530, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/bauchi_ningi", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -7422,7 +7428,7 @@
         }, 
         {
             "_lga_id": 531, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/imo_njaba", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -7464,7 +7470,7 @@
         }, 
         {
             "_lga_id": 534, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/enugu_nkanu_west", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -7506,7 +7512,7 @@
         }, 
         {
             "_lga_id": 537, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/anambra_nnewi_south", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -7548,7 +7554,7 @@
         }, 
         {
             "_lga_id": 540, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/akwa_ibom_nsit_ubuim", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -7590,7 +7596,7 @@
         }, 
         {
             "_lga_id": 543, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/imo_nwangele", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -7604,7 +7610,7 @@
         }, 
         {
             "_lga_id": 544, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/ogun_obafemi_owode", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -7618,7 +7624,7 @@
         }, 
         {
             "_lga_id": 545, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/cross_river_obanliku", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -7632,7 +7638,7 @@
         }, 
         {
             "_lga_id": 546, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/nasarawa_obi", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -7660,7 +7666,7 @@
         }, 
         {
             "_lga_id": 548, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/abia_obi_nwa", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -7716,7 +7722,7 @@
         }, 
         {
             "_lga_id": 552, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/imo_obowo", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -7730,7 +7736,7 @@
         }, 
         {
             "_lga_id": 553, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/cross_river_obubra", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -7758,7 +7764,7 @@
         }, 
         {
             "_lga_id": 555, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/ogun_odeda", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -7800,7 +7806,7 @@
         }, 
         {
             "_lga_id": 558, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/osun_odo_otin", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -7814,7 +7820,7 @@
         }, 
         {
             "_lga_id": 559, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/cross_river_odukpani", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -7898,7 +7904,7 @@
         }, 
         {
             "_lga_id": 565, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/bayelsa_ogbia", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -7940,7 +7946,7 @@
         }, 
         {
             "_lga_id": 568, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/rivers_ogo_bolo", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -7968,7 +7974,7 @@
         }, 
         {
             "_lga_id": 570, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/oyo_ogo_oluwa", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -7996,7 +8002,7 @@
         }, 
         {
             "_lga_id": 572, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/ogun_ogun_waterside", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -8024,7 +8030,7 @@
         }, 
         {
             "_lga_id": 574, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/abia_ohafia", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -8052,7 +8058,7 @@
         }, 
         {
             "_lga_id": 576, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/ebonyi_ohaozara", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -8094,7 +8100,7 @@
         }, 
         {
             "_lga_id": 579, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/edo_ohionmwon", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -8108,7 +8114,7 @@
         }, 
         {
             "_lga_id": 580, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/enugu_oji_river", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -8150,7 +8156,7 @@
         }, 
         {
             "_lga_id": 583, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kogi_okehi", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -8178,7 +8184,7 @@
         }, 
         {
             "_lga_id": 585, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kwara_oke_ero", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -8248,7 +8254,7 @@
         }, 
         {
             "_lga_id": 590, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/rivers_okrika", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -8276,7 +8282,7 @@
         }, 
         {
             "_lga_id": 592, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/osun_ola_oluwa", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -8332,7 +8338,7 @@
         }, 
         {
             "_lga_id": 596, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kogi_omala", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -8346,7 +8352,7 @@
         }, 
         {
             "_lga_id": 597, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/rivers_omuma", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -8374,7 +8380,7 @@
         }, 
         {
             "_lga_id": 599, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/ondo_ondo_east", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -8458,7 +8464,7 @@
         }, 
         {
             "_lga_id": 605, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/benue_okpokwu", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -8528,7 +8534,7 @@
         }, 
         {
             "_lga_id": 610, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/oyo_oriire", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -8612,7 +8618,7 @@
         }, 
         {
             "_lga_id": 616, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/akwa_ibom_oruk_anam", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -8640,7 +8646,7 @@
         }, 
         {
             "_lga_id": 618, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/anambra_orumba_south", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -8668,7 +8674,7 @@
         }, 
         {
             "_lga_id": 620, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/ondo_ose", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -8780,7 +8786,7 @@
         }, 
         {
             "_lga_id": 628, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/edo_ovia_south_west", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -8878,7 +8884,7 @@
         }, 
         {
             "_lga_id": 635, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/ekiti_oye", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -8976,7 +8982,7 @@
         }, 
         {
             "_lga_id": 642, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/plateau_pankshin", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -9004,7 +9010,7 @@
         }, 
         {
             "_lga_id": 644, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kwara_patigi", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -9074,7 +9080,7 @@
         }, 
         {
             "_lga_id": 649, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/niger_rafi", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -9158,7 +9164,7 @@
         }, 
         {
             "_lga_id": 655, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/jigawa_ringim", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -9172,7 +9178,7 @@
         }, 
         {
             "_lga_id": 656, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/plateau_riyom", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -9270,7 +9276,7 @@
         }, 
         {
             "_lga_id": 663, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/bayelsa_sagbama", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -9284,7 +9290,7 @@
         }, 
         {
             "_lga_id": 664, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kebbi_sakaba", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -9368,7 +9374,7 @@
         }, 
         {
             "_lga_id": 670, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/taraba_sardauna", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -9424,7 +9430,7 @@
         }, 
         {
             "_lga_id": 674, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/borno_shani", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -9452,7 +9458,7 @@
         }, 
         {
             "_lga_id": 676, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/adamawa_shelleng", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -9494,7 +9500,7 @@
         }, 
         {
             "_lga_id": 679, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/bauchi_shira", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -9522,7 +9528,7 @@
         }, 
         {
             "_lga_id": 681, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/gombe_shongom", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -9606,7 +9612,7 @@
         }, 
         {
             "_lga_id": 687, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/adamawa_song", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -9620,7 +9626,7 @@
         }, 
         {
             "_lga_id": 688, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/bayelsa_southern_ijaw", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -9648,7 +9654,7 @@
         }, 
         {
             "_lga_id": 690, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/jigawa_sule_tankakar", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -9662,7 +9668,7 @@
         }, 
         {
             "_lga_id": 691, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kano_sumaila", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -9676,7 +9682,7 @@
         }, 
         {
             "_lga_id": 692, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kebbi_suru", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -9760,7 +9766,7 @@
         }, 
         {
             "_lga_id": 698, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kano_takai", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -9774,7 +9780,7 @@
         }, 
         {
             "_lga_id": 699, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/taraba_takum", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -9802,7 +9808,7 @@
         }, 
         {
             "_lga_id": 701, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/sokoto_tambuwal", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -9816,7 +9822,7 @@
         }, 
         {
             "_lga_id": 702, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/sokoto_tangaza", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -9858,7 +9864,7 @@
         }, 
         {
             "_lga_id": 705, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/yobe_tarmuwa", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -9914,7 +9920,7 @@
         }, 
         {
             "_lga_id": 709, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/bauchi_toro", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -9928,7 +9934,7 @@
         }, 
         {
             "_lga_id": 710, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/nasarawa_toto", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -9942,7 +9948,7 @@
         }, 
         {
             "_lga_id": 711, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/zamfara_tsafe", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -9984,7 +9990,7 @@
         }, 
         {
             "_lga_id": 714, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/sokoto_tureta", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -10026,7 +10032,7 @@
         }, 
         {
             "_lga_id": 717, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/delta_udu", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -10040,7 +10046,7 @@
         }, 
         {
             "_lga_id": 718, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/akwa_ibom_udung_uko", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -10138,7 +10144,7 @@
         }, 
         {
             "_lga_id": 725, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/abia_ukwa_east", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -10152,7 +10158,7 @@
         }, 
         {
             "_lga_id": 726, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/abia_ukwa_west", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -10166,7 +10172,7 @@
         }, 
         {
             "_lga_id": 727, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/delta_ukwuani", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -10208,7 +10214,7 @@
         }, 
         {
             "_lga_id": 730, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/abia_umu_neochi", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -10236,7 +10242,7 @@
         }, 
         {
             "_lga_id": 732, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/imo_unuimo", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -10348,7 +10354,7 @@
         }, 
         {
             "_lga_id": 740, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/benue_vandeikya", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -10376,7 +10382,7 @@
         }, 
         {
             "_lga_id": 742, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/nasarawa_wamba", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -10390,7 +10396,7 @@
         }, 
         {
             "_lga_id": 743, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/kano_warawa", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -10446,7 +10452,7 @@
         }, 
         {
             "_lga_id": 747, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/delta_warri_south_west", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -10530,7 +10536,7 @@
         }, 
         {
             "_lga_id": 753, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/niger_wushishi", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -10600,7 +10606,7 @@
         }, 
         {
             "_lga_id": 758, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/cross_river_yala", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -10614,7 +10620,7 @@
         }, 
         {
             "_lga_id": 759, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/gombe_yalmatu_deba", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -10698,7 +10704,7 @@
         }, 
         {
             "_lga_id": 765, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/taraba_yorro", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -10712,7 +10718,7 @@
         }, 
         {
             "_lga_id": 766, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/yobe_yunusari", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -10726,7 +10732,7 @@
         }, 
         {
             "_lga_id": 767, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/yobe_yusufari", 
             "files": {
                 "data/facilities": "data/facilities.json", 
@@ -10810,7 +10816,7 @@
         }, 
         {
             "_lga_id": 773, 
-            "active": true, 
+            "active": false, 
             "data_root": "districts/zamfara_zurmi", 
             "files": {
                 "data/facilities": "data/facilities.json", 
