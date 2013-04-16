@@ -4321,7 +4321,7 @@
                     "data/education.csv", 
                     "data/health.csv"
                 ], 
-                "data/lga_data": "data/lga_data.json"
+                "data/lga_data": "data/lga_data.csv"
             }, 
             "group": "enugu", 
             "lat_lng": "7.00477,7.459413", 
@@ -4338,7 +4338,7 @@
                     "data/education.csv", 
                     "data/health.csv"
                 ], 
-                "data/lga_data": "data/lga_data.json"
+                "data/lga_data": "data/lga_data.csv"
             }, 
             "group": "enugu", 
             "lat_lng": "6.948485,7.388912", 
@@ -7575,7 +7575,7 @@
                     "data/education.csv", 
                     "data/health.csv"
                 ], 
-                "data/lga_data": "data/lga_data.json"
+                "data/lga_data": "data/lga_data.csv"
             }, 
             "group": "enugu", 
             "lat_lng": "6.850222,7.380293", 
@@ -10014,7 +10014,7 @@
                     "data/education.csv", 
                     "data/health.csv"
                 ], 
-                "data/lga_data": "data/lga_data.json"
+                "data/lga_data": "data/lga_data.csv"
             }, 
             "group": "enugu", 
             "lat_lng": "6.872585,7.559445", 
@@ -10353,7 +10353,7 @@
                     "data/education.csv", 
                     "data/health.csv"
                 ], 
-                "data/lga_data": "data/lga_data.json"
+                "data/lga_data": "data/lga_data.csv"
             }, 
             "group": "enugu", 
             "lat_lng": "6.711892,7.112339", 
